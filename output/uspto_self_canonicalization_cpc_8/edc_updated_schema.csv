@@ -1,0 +1,166 @@
+provide,"The subject entity offers or supplies the object entity, making it available or accessible."
+include,The subject entity contains or encompasses the object entity as a component or part of its structure.
+located_in,The subject entity is situated or found within the area or condition specified by the object entity.
+detected_through,The subject entity is identified or recognized by means of the object entity.
+replaced_by,The subject entity is substituted or exchanged with the object entity.
+assigned,The subject entity is given or designated the function or role specified by the object entity.
+can be,The subject entity has the capability or potential to undergo the action specified by the object entity.
+re-routes,The subject entity redirects or changes the path of the object entity.
+not provide,The subject entity refrains from supplying or giving the object entity with the specified item or information.
+implement,The subject entity puts into effect or carries out the neural network specified by the object entity.
+re-purpose,The subject entity repurposes or reconfigures the individual neurons to implement neurons of multiple stages specified by the object entity.
+discard,The subject entity gets rid of or discards the defective neuron specified by the object entity.
+remove,The subject entity eliminates or takes away the defective neuron specified by the object entity.
+removed_from,The subject entity is eliminated or taken away from the area or condition specified by the object entity.
+configure,The subject entity arranges or sets up the pool of neurons to perform the operation(s) specified by the object entity.
+store,The subject entity retains or keeps the object entity for future reference or use.
+store_instead_of,The subject entity retains or keeps the object entity in place of another specified entity.
+used_for,The subject entity is utilized for the purpose of achieving or controlling the object entity.
+indicative_of,"The subject entity serves as an indication or representation of the object entity, reflecting its characteristics or properties."
+between,The subject entity is positioned or measured in the space or range specified by the object entity.
+associated_with,"The subject entity is connected or linked in some way to the object entity, indicating a relationship or association between them."
+formed_on,The subject entity is constructed or established on the surface or area specified by the object entity.
+opposite_to,The subject entity is situated or positioned in a direction that is contrary or reverse to the object entity.
+formed_at,The subject entity is created or developed during the specific stage or process indicated by the object entity.
+example_of,The subject entity is an instance or representation of the object entity.
+have,The subject entity possesses or exhibits the characteristic or property specified by the object entity.
+caused_by,The subject entity is the reason or source of the action or condition specified by the object entity.
+attached_to,The subject entity is joined or fixed to the object entity.
+reduced_by,The subject entity decreases or lessens the occurrence or amount of the object entity.
+provided_at,"The subject entity is located or situated at the object entity, indicating a spatial or functional relationship between the two entities."
+cause,The subject action results in or brings about the occurrence of the object entity or event.
+occur_in,The object entity or event takes place within or is a part of the subject entity or process.
+eliminate,The subject entity completely removes or eradicates the object entity or condition.
+heated_to,The subject entity is raised or brought to the temperature specified by the object entity.
+covered_by,The subject entity is overlaid or protected by the object entity.
+supports,"The subject entity provides structural or physical support to the object entity, holding it in place or maintaining its position."
+suitable_for,The subject entity is appropriate or well-suited for fulfilling the function or purpose specified by the object entity.
+located_over,The subject entity is positioned or situated above the object entity.
+includes,The subject entity contains or comprises the object entity as a component or part.
+deposited_by,The subject entity is applied or placed by the method or technique specified by the object entity.
+achieve,The subject entity successfully attains or accomplishes the quality or degree specified by the object entity.
+greater_than,The subject entity exceeds or is more than the quantity or level specified by the object entity.
+form,The subject entity creates or produces the object entity.
+adjust,The subject entity modifies or changes the property or characteristic of the object entity.
+maintain,The subject entity keeps or preserves the quality or degree of the object entity.
+molded_in,"The subject entity is enclosed or shaped within the object entity, typically to provide protection, support, or a specific form."
+arranged_between,The subject entity is positioned or placed in the space or area between the two object entities.
+encircle,The subject entity surrounds or forms a circle around the object entity.
+runs_through,The subject entity passes or extends through the object entity.
+not_connected_to,"The subject entity lacks a direct physical connection or attachment to the object entity, maintaining a separate or independent relationship."
+seals_off,"The subject entity creates a barrier or closure between the object entities, preventing interaction or passage between them."
+connected_to,The subject entity is physically linked or attached to the object entity in a bonded or connected manner.
+surrounds,"The subject entity encloses or encompasses the object entity, providing protection, containment, or support."
+presses down,The subject entity applies pressure or force in a downward direction on the object entity.
+proximate_to,The subject entity is located near or in close proximity to the object entity.
+flow_over,The subject entity moves or spreads across the surface or boundary of the object entity.
+confines,The subject entity restricts or limits the movement or spread of the object entity to a specific area or location.
+located_on,The subject entity is situated or found on the object entity.
+placed_on,The subject entity is positioned or placed on the object entity.
+confined_to,The subject entity is limited or restricted to the specified areas or regions of the object entity.
+coupled_to,The subject entity is connected or linked to the object entity in a way that they work together or function as a unit.
+enhance,The subject entity improves or increases the quality or degree of the object entity.
+do_not_include,The subject entity does not contain or consist of the object entity.
+part_of,The subject entity is a component or part of the object entity.
+arranged_in,The subject entity is positioned or organized within the area or region specified by the object entity.
+corresponds_to,The subject entity matches or is related to the object entity in a specific manner.
+compared_to,The subject entity is being compared to the object entity in terms of the specified characteristic or property.
+arrayed_in,The subject entity is arranged or organized in the pattern specified by the object entity.
+forming,The subject entity is responsible for creating or shaping the object entity.
+formed_in,The subject entity is created or established within the object entity.
+formed_with,The subject entity is created or constructed using the material or component specified by the object entity.
+surrounded_by,The subject entity is encircled or enclosed by the object entity.
+extends_between,The subject entity spans or stretches from one specified point to another specified point.
+contact,The subject entity makes physical contact with the object entity.
+has,The subject entity possesses or is associated with the object entity.
+covers,The subject entity extends over or protects the surface of the object entity.
+disposed_on,The subject entity is positioned or placed on top of the object entity.
+extends_from,The subject entity stretches or reaches from the starting point specified by the object entity.
+located_under,The subject entity is positioned or situated beneath the object entity.
+not_under,The subject entity is not situated or positioned beneath the object entity.
+is,The subject entity is equivalent to or classified as the object entity.
+received_by,The subject entity accepts or takes in the object entity from the sender specified by the object entity.
+transmitted_by,The subject entity sends or conveys the object entity to the recipient specified by the object entity.
+in_contact_with,"The subject entity is in direct physical contact with the object entity, typically for the purpose of transferring heat, electricity, or information."
+comprises,The subject entity includes or consists of the object entity as a component or part.
+arranged_spaced_apart_from,The subject entity is positioned at a distance or gap from the object entity.
+arranged_closer_to,The subject entity is positioned nearer or in closer proximity to the object entity.
+arranged_farther_from,The subject entity is positioned further away or at a greater distance from the object entity.
+extend_between,The subject entity spans or stretches across the locations or entities specified by the object entity.
+extend_from,The subject entity originates or starts from the location or entity specified by the object entity.
+extend_to,The subject entity reaches or extends towards the location or entity specified by the object entity.
+focused_through,The subject entity is directed or concentrated through the object entity to a specific point or area.
+located_between,The subject entity is positioned or situated between the two entities specified by the object entity.
+opposite,The subject entity is positioned or oriented in a direction that is contrary or facing away from the object entity.
+separated_along,The subject entity is divided or split in a specific direction or path indicated by the object entity.
+faces,The subject entity is oriented towards or directed at the object entity.
+spaced_apart_from,The subject entity is separated or distanced from the object entity.
+define,The subject entity establishes or sets the boundaries or characteristics of the object entity.
+expose,The subject entity reveals or makes visible a specific part or area of the object entity.
+belong_to,The subject entity is a part or component of the object entity.
+extend_over,The subject entity spans or covers the area specified by the object entity.
+protrude_in,The subject entity extends inward or is positioned within the object entity.
+limit,The subject entity constrains or restricts the extent or effectiveness of the object entity.
+bonded_to,The subject entity is connected or joined to the object entity in a secure or permanent manner.
+performed_on,The subject entity is carried out or executed on the object entity.
+transferred_to,The subject entity is moved or conveyed to the location or entity specified by the object entity.
+applied_to,The subject entity is implemented or utilized on the object entity for a specific purpose or function.
+relative_to,The subject entity is positioned or situated in relation to the object entity.
+configured_to,The subject entity is designed or set up to perform the action specified by the object entity.
+control,"The subject entity has the ability to manage, regulate, or influence the behavior or operation of the object entity."
+cope_with,"The subject entity is able to manage or handle the specified challenge, situation, or condition."
+output,The subject entity emits or produces the object entity.
+higher_than,The subject entity possesses a quantity or quality that exceeds or is greater than the quantity or quality specified by the object entity.
+not impose,The subject entity does not place or force the object entity to endure or experience a particular condition or situation.
+affect,The subject entity influences or has an impact on the object entity in a certain way.
+connected_through,The subject entity establishes a connection or pathway between the object entities.
+manufactured_in,The subject entity is produced or created within the area or structure specified by the object entity.
+can_be,The subject entity has the potential or capability to exist as or transform into the object entity.
+related_to,"The subject entity has a connection or association with the object entity, indicating relevance or involvement."
+devoid_of,The subject entity lacks or is without the characteristic or property specified by the object entity.
+singulated,The subject entity is separated or divided into individual units or pieces either before or after the action or event specified by the object entity.
+formed_over,The subject entity is created or constructed on top of the object entity.
+protects,"The subject entity safeguards or defends the object entity from harm, damage, or unauthorized use."
+belongs_to,The subject entity is a part or component of the object entity.
+target,The subject entity is aimed or directed towards the object entity to achieve a specific outcome or result.
+make,The subject entity enables or causes the object entity to achieve a certain outcome or state.
+by,The subject entity is utilized as a means or method for the object entity to achieve a certain outcome or state.
+during,The subject entity occurs or is active within the time frame specified by the object entity.
+outsource,The subject entity delegates or contracts out a task or responsibility to the object entity.
+get,The subject entity undergoes or experiences the action or result specified by the object entity.
+diced along,The subject entity is cut or divided in a specific manner along the specified location or direction to create or shape the object entity.
+aligned_with,The subject entity is positioned or oriented in a way that is parallel or in alignment with the object entity.
+stiffens,The subject entity increases the rigidity or firmness of the object entity.
+more apt to,The subject entity is likely or inclined to exhibit the specified behavior or characteristic of the object entity.
+dedicated_for,The subject entity is specifically allocated or intended for the use or purpose of the object entity.
+increased_for,The subject entity experiences a growth or expansion in the quantity or extent of the object entity.
+placed_in,The subject entity is positioned or situated within the area or space specified by the object entity.
+used_in,The subject entity is utilized or employed within the context or structure specified by the object entity.
+connects,"The subject entity establishes an electrical connection between the object entities, allowing for the flow of electrical current or signals between them."
+disposed_into,The subject entity is placed or inserted inside the object entity.
+exposed,The subject entity is left uncovered or visible on the surface of the object entity.
+removed_to,The subject entity is taken away or eliminated in order to achieve the separation or isolation of the object entity.
+disposed_over,The subject entity is positioned or placed above or covering the object entity.
+formed_around,The subject entity is created or constructed in the vicinity or surrounding area of the object entity.
+separated_from,The subject entities are apart or distinct from each other in terms of position or arrangement.
+overlapping,The subject entity covers or extends over the specified area or region of the object entity.
+located_along,The subject entity is situated or found along the specified edge or boundary of the object entity.
+represented_by,The subject entity is symbolized or denoted by the object entity specified.
+extend_along,The subject entity stretches or continues in the path or direction specified by the object entity.
+perpendicular_to,The subject entity is oriented at a right angle or 90 degrees to the direction specified by the object entity.
+based_on,The subject entity is developed or designed with the foundation or principles specified by the object entity.
+adopt,The subject entity utilizes or follows the logic or method specified by the object entity.
+fulfills,The subject entity satisfies or completes the specified type of operation or task associated with the object entity.
+at,The subject entity is at the level specified by the object entity.
+enters,The subject entity transitions into or begins the state or stage specified by the object entity.
+changed_to,The subject entity transitions or switches to the state or level specified by the object entity.
+separate_from,The subject entity is distinct or not connected to the object entity.
+can_save,The subject entity has the capability to reduce or conserve the quantity or usage of the object entity.
+embedded_in,The subject entity is enclosed or inserted within the object entity.
+extend_through,"The subject entity extends or stretches through the object entity, indicating a spatial relationship where the subject entity covers or passes through the object entity."
+contain,The subject entity holds or includes the specified component or material within itself.
+covered_with,The subject entity is overlaid or coated with the object entity.
+exposed_by,The subject entity is revealed or made visible through the action or process specified by the object entity.
+formed_by,The subject entity is created or produced through the method or process specified by the object entity.
+performed_to_obtain,The subject entity carries out an action in order to achieve or acquire the object entity.
+stacked on,The subject entity is positioned or placed on top of the object entity in a vertical arrangement.

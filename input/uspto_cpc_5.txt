@@ -1,0 +1,290 @@
+In some embodiments of the present disclosure, a method of treating an atom on a substrate includes an operation of ionizing an etchant and the ionized etchant is a positively charged.
+The method includes an operation of attaching the ionized etchant on the atom.
+The method also includes an operation of bonding the atom with the etchant to from a compound.
+The method further includes sputtering the substrate with a charged particle and an operation of applying a bias on the water.
+An integrated circuit device is provided as follows.
+A fin-type active region extends on a substrate in a first horizontal direction.
+A gate line extends on the fin-type active region in a second horizontal direction intersecting the first horizontal direction.
+A source/drain region is disposed in the fin-type active region at one side of the gate line.
+An insulating cover extends parallel to the substrate, with the gate line and the source/drain region arranged between the insulating cover and the substrate.
+A source/drain contact that vertically extends through the insulating cover has a first sidewall covered with the insulating cover and an end connected to the source/drain region.
+A fin isolation insulating unit vertically extends through the insulating cover into the fin-type active region.
+The source/drain region is arranged between the fin isolation insulating unit and the gate line.
+Structures for a field-effect transistor and methods for fabricating a structure for a field-effect transistor.
+A first epitaxial layer has a first surface and a second surface inclined relative to the first surface.
+A surface layer is arranged on the first and second surfaces of the first epitaxial layer.
+A second epitaxial layer is arranged over the surface layer on the first and second surfaces of the first epitaxial layer.
+A portion of the first epitaxial layer defines an interface with the surface layer.
+The portion of the first epitaxial layer contains a first concentration of a dopant.
+The surface layer contains a second concentration of the dopant that is greater than the first concentration of the dopant in the portion of the first epitaxial layer.
+A semiconductor device includes a semiconductor substrate, a gate electrode, a channel region, a pair of source/drain regions and a threshold voltage adjusting region.
+The gate electrode is over the semiconductor substrate.
+The channel region is between the semiconductor substrate and the gate electrode.
+The channel region includes a pair of first sides opposing to each other in a channel length direction, and a pair of second sides opposing to each other in a channel width direction.
+The source/drain regions are adjacent to the pair of first sides of the channel region in the channel length direction.
+The threshold voltage adjusting region covers the pair of second sides of the channel region in the channel width direction, and exposing the pair of first sides of the channel region in the channel length direction.
+A semiconductor device which simplifies the manufacturing process while decreasing the width of separation between a first MOS transistor area and a second MOS transistor area, and a method for manufacturing the semiconductor device.
+A first MOS transistor and a second MOS transistor configure a bidirectional switch.
+The first MOS transistor and second MOS transistor each have a vertical trench structure.
+A first impurity region abuts on the side wall of a first gate trench of a first MOS transistor element outside the first MOS transistor area and is electrically coupled to a first source region.
+An embodiment is a method of manufacturing a semiconductor device.
+The method includes forming a fin on a substrate.
+A gate structure is formed over the fin.
+A recess is formed in the fin proximate the gate structure.
+A gradient doped region is formed in the fin with a p-type dopant.
+The gradient doped region extends from a bottom surface of the recess to a vertical depth below the recess in the fin.
+A source/drain region is formed in the recess and on the gradient doped regions.
+Thermal atomic layer etching processes are disclosed.
+In some embodiments, the methods comprise at least one etch cycle in which the substrate is alternately and sequentially exposed to a first vapor phase halide reactant and a second vapor halide reactant.
+In some embodiments, the first reactant may comprise an organic halide compound.
+During the thermal ALE cycle, the substrate is not contacted with a plasma reactant.
+Thermal atomic layer etching processes are disclosed.
+In some embodiments, the methods comprise at least one etch cycle in which the substrate is alternately and sequentially exposed to a first vapor phase halide reactant and a second vapor halide reactant.
+In some embodiments, the first reactant may comprise an organic halide compound.
+During the thermal ALE cycle, the substrate is not contacted with a plasma reactant.
+A trench-type metal-oxide-semiconductor field-effect transistor (MOSFET) device and a fabrication method are disclosed.
+A semiconductor substrate of a first conductivity type is provided.
+A plurality of first trenches arranged side by side in a first stripe layout extending along a first direction in a first preset area of the semiconductor substrate are formed.
+A plurality of second trenches arranged side by side in a second stripe layout extending along a second direction perpendicular to the first direction in a second preset area of the semiconductor substrate are formed.
+The plurality of first trenches and the plurality of second trenches are filled with a conductive material so as to form a plurality of control gates.
+An integrated circuit device is provided as follows.
+A fin-type active region extends on a substrate in a first horizontal direction.
+A gate line extends on the fin-type active region in a second horizontal direction intersecting the first horizontal direction.
+A source/drain region is disposed in the fin-type active region at one side of the gate line.
+An insulating cover extends parallel to the substrate, with the gate line and the source/drain region arranged between the insulating cover and the substrate.
+A source/drain contact that vertically extends through the insulating cover has a first sidewall covered with the insulating cover and an end connected to the source/drain region.
+A fin isolation insulating unit vertically extends through the insulating cover into the fin-type active region.
+The source/drain region is arranged between the fin isolation insulating unit and the gate line.
+Methods of etching cobalt on substrates are provided.
+Some methods involve exposing the substrate to a boron-containing halide gas and an additive, and exposing the substrate to an activation gas and a plasma.
+Additives improve selectively depositing a thicker layer of a boron-containing halide material on a surface of a mask than on a surface of a metal.
+Additives include H2, CH4, CF4, NF3, and Cl2.
+Boron-containing halide gases include BCl3, BBr3, BF3, and BI3.
+Exposures may be performed in two or more cycles, with variations in durations and/or bias power for each exposure in the two or more cycles.
+Embodiments described herein provide methods and apparatus used to control a processing result profile proximate to a circumferential edge of a substrate during the plasma assisted processing thereof.
+In one embodiment a substrate support assembly features a first base plate and a second base plate circumscribing the first base plate.
+The first and second base plates each have one or more respective first and second cooling disposed therein.
+The substrate support assembly further features a substrate support disposed on and thermally coupled to the first base plate and a biasing ring disposed on and thermally coupled to the second base plate.
+Here, the substrate support and the biasing ring are each formed of a dielectric material.
+The substrate support assembly further includes an edge ring biasing electrode embedded the dielectric material of the biasing ring and an edge ring disposed on the biasing ring.
+In some embodiments, a method for cleaning a processing chamber is provided.
+The method may be performed by introducing a processing gas into a processing chamber that has a by-product disposed along sidewalls of the processing chamber.
+A plasma is generated from the processing gas using a radio frequency signal.
+A lower electrode is connected to a first electric potential.
+Concurrently, a bias voltage having a second electric potential is applied to a sidewall electrode to induce ion bombardment of the by-product, in which the second electric potential has a larger magnitude than the first electric potential.
+The processing gas is evacuated from the processing chamber.
+A method for processing a substrate in a processing chamber using at least one time trace based prediction model is provided.
+A substrate is dry processed, where the dry processing creates at least one gas by-product.
+A concentration of the at least one gas by-product is measured.
+A time trace of the concentration of the at least one gas by-product is determined.
+The determined time trace of the concentration is provided as input for the at least one time trace based prediction model to obtain at least one process output.
+The at least one process output is used to adjust at least one process parameter.
+Provided is a semiconductor device including a substrate, an isolation structure, a barrier structure, a first conductive layer, a second conductive layer, a first gate dielectric layer, and a second gate dielectric layer.
+The substrate has a first region and a second region.
+The barrier structure is located on the isolation structure.
+The first conductive layer is located on the first region.
+The second conductive layer is located on the second region.
+The first gate dielectric layer is located between the first conductive layer and the substrate in the first region.
+The second gate dielectric layer is located between the second conductive layer and the substrate in the second region.
+The first gate dielectric layer and the second gate dielectric layer are separated by the isolation structure.
+A method of manufacturing the semiconductor device is also provided.
+A memory device that includes a non-volatile memory (NVM) transistor disposed in a first region of a substrate.
+The NVM transistor includes a first gate including a first type of conductor material.
+The memory device further includes a first type of low voltage field-effect transistor (LV FET) and an input/out field-effect transistor (I/O FET) disposed in a second region of the substrate.
+The LV FET includes a second gate comprising a second type of conductor material, the I/O FET includes a third gate comprising a second type of conductor material, and the first and second conductor materials are different.
+Other embodiments are also described.
+Image sensors are provided.
+An image sensor includes a substrate including a plurality of pixel areas.
+The substrate has a first surface and a second surface that is opposite the first surface.
+The image sensor includes a deep pixel isolation region extending from the second surface of the substrate toward the first surface of the substrate and separating the plurality of pixel areas from each other.
+The image sensor includes an amorphous region adjacent a sidewall of the deep pixel isolation region.
+Moreover, the image sensor includes an electron suppression region between the amorphous region and the sidewall of the deep pixel isolation region.
+A semiconductor device is disclosed.
+The semiconductor device includes a substrate structure, a gate structure, a drift region, a drain region in the substrate structure, two isolation structures at opposite sides of the drift region, wherein the drift region has a first width, the isolation structure has a second width, a ratio of the first width to the second width is in a range from 1 to 4.
+The semiconductor device further includes a super-junction doped structure in the drift region and including a plurality of first-conductive-type doped sub-regions and a plurality of second-conductive-type doped sub-regions which are alternately disposed.
+Widths of the plurality of first-conductive-type doped sub-regions decrease from the gate structure to the drain region, and widths of the plurality of second-conductive-type doped sub-regions also decrease from the gate structure to the drain region.
+A first insulating layer is disposed on a second surface of a semiconductor substrate, and has an opening.
+A second insulating layer is disposed on the second surface and separated from the first insulating layer.
+A stack includes, in sequence on the second surface, a side n-type epitaxial layer and first and second p-type epitaxial layers that are made of a gallium-nitride-based material.
+The stack has an outer side wall having a portion formed of the second p-type epitaxial layer, an inner side wall extending from the second insulating layer, and a top surface.
+The n-type contact layer is disposed on the top surface.
+The source electrode portion is in contact with the n-type contact layer on the top surface, and is in contact with the second p-type epitaxial layer on the outer side wall.
+A gate insulating film is disposed on the inner side wall.
+Various methods and structures for fabricating a contact for a semiconductor FET or FinFET device.
+A semiconductor FET structure includes a substrate, a source/drain region layer and source/drain contact.
+First and second gate spacers are adjacent respective first and second opposing sides of the source/drain contact.
+The source/drain contact is disposed directly on and contacting the entire source/drain region layer, and at a vertical level thereabove, the source/drain contact being recessed to a limited horizontal area continuing vertically upwards from the vertical level.
+The limited horizontal area horizontally extending along less than a full horizontal length of a vertical sidewall of the first and second gate spacers, and less than fully covering the source/drain region layer.
+A method uses a reverse contact mask to form a shape of the source/drain contact into an inverted “T” shape.
+A sensing apparatus for sensing target materials including biological or chemical molecules in a fluid.
+One such apparatus includes a semiconductor-on-insulator (SOI) structure having an electrically-insulating layer, a fluidic channel supported by the SOI structure and configured and arranged to receive and pass a fluid including the target materials, and a semiconductor device including at least three electrically-contiguous semiconductor regions doped to exhibit a common polarity.
+The semiconductor regions include a sandwiched region sandwiched between two of the other semiconductor regions, and configured and arranged adjacent to the fluidic channel with a surface directed toward the fluidic channel for coupling to the target materials in the fluidic channel, and further arranged for responding to a bias voltage.
+The sensing apparatus also includes an amplification circuit in or on the SOI and that is arranged to facilitate sensing of the target material near the fluidic channel.
+Described processing chambers may include a chamber housing at least partially defining an interior region of a semiconductor processing chamber.
+The chamber may include a showerhead positioned within the chamber housing, and the showerhead may at least partially divide the interior region into a remote region and a processing region in which a substrate can be contained.
+The chamber may also include an inductively coupled plasma source positioned between the showerhead and the processing region.
+The inductively coupled plasma source may include a conductive material within a dielectric material.
+A plasma processing apparatus includes a support structure configured to support a workpiece and a first drive device configured to rotate the support structure about a first axis extending in a direction orthogonal to a vertical direction.
+The support structure includes a holding unit including an electrostatic chuck and a container provided under the holding unit.
+The container includes a tubular container body, and a bottom cover configured to close a bottom side opening of the container body and to be detachable from the container body.
+A maintenance method includes: rotating a support structure about a first axis such that the bottom cover is positioned above an electrostatic chuck, removing the bottom cover from the container body, and maintaining a component provided in the container body.
+A method for etching features into a silicon containing layer comprising performing a plurality of cycles in a plasma processing chamber is provided.
+Each cycle comprises a deposition phase and an activation phase.
+The deposition phase comprises flowing a precursor into the plasma processing chamber to form a self-limiting monolayer, wherein the precursor comprises a head group component and a tail group component, wherein the tail group component comprises fluorine and carbon, and stopping the flow of the precursor into the plasma processing chamber.
+The activation phase comprises flowing an activation gas comprising an ion bombardment gas, into the plasma processing chamber, creating a plasma from the activation gas, providing an activation bias to cause ion bombardment of the self-limiting monolayer, wherein the ion bombardment activates the fluorine from the tail group component to etch the silicon containing layer, and stopping the flow of the activation gas.
+A method for forming CMOS devices includes masking a first portion of a tensile-strained silicon layer of a SOI substrate, doping a second portion of the layer outside the first portion and growing an undoped silicon layer on the doped portion and the first portion.
+The undoped silicon layer becomes tensile-strained.
+Strain in the undoped silicon layer over the doped portion is relaxed by converting the doped portion to a porous silicon to form a relaxed silicon layer.
+The porous silicon is converted to an oxide.
+A SiGe layer is grown and oxidized to convert the relaxed silicon layer to a compressed SiGe layer.
+Fins are etched in the first portion from the tensile-strained silicon layer and the undoped silicon layer and in the second portion from the compressed SiGe layer.
+A semiconductor die and a process for fabricating the semiconductor die are disclosed.
+The semiconductor die has a substrate and a silicon carbide (SiC) epitaxial structure on the substrate.
+The SiC epitaxial structure includes at least a first N-type SiC layer, at least a first P-type SiC layer, and carbon vacancy reduction material, which has been implanted into a surface of the SiC epitaxial structure.
+Further, the SiC epitaxial structure has been annealed to mobilize the carbon vacancy reduction material to diffuse carbon atoms substantially throughout the SiC epitaxial structure, thereby increasing an average carrier lifetime in the SiC epitaxial structure.
+A method for fabricating a semiconductor device includes providing a base substrate, forming a plurality of doped regions in the base substrate, forming an initial capping layer covering surfaces of the plurality of doped regions, forming a dielectric layer on the initial capping layer and the base substrate, forming a plurality of vias in the dielectric layer to expose a surface portion of the initial capping layer, and etching the exposed surface portion of the initial capping layer at a bottom of each via to form a silicide region exposed at the bottom of the via.
+The silicide region has a reduced thickness compared with a thickness of the initial capping layer.
+The method further includes forming a metal silicide layer by performing a self-aligned silicide process on an entire silicide region.
+The metal silicide layer is in contact with the plurality of doped regions.
+Techniques related to a boosted vertical field effect transistor and method of fabricating the same are provided.
+A logic device can comprise a vertical field effect transistor comprising a substrate, a first epitaxial layer and a second epitaxial layer.
+A bottom source/drain contact can be between a top surface and the first epitaxial layer and a top source/drain contact can be between the top surface and the second epitaxial layer at respective first portions of one or more vertical fins.
+The logic device can also comprise a boosted bipolar junction transistor.
+A bipolar junction transistor contact can be between the top surface and the second epitaxial layer at respective second portions of the one or more vertical fins.
+The respective first portions and the respective second portions can be opposite portions of the one or more vertical fins.
+A method and apparatus are provided for plasma-based processing of a substrate based on a plasma source having a first, second and third electrodes disposed above a pedestal.
+The second electrode is disposed between the first and third electrodes.
+A first gap is formed between the first electrode and the pedestal and between the third electrode and the pedestal.
+A second gap is formed between the first and second electrodes, and a third gap is formed between the second and third electrodes.
+A first radio frequency (RF) power supply is connected to the first and third electrodes and is configured to predominantly deliver power to plasmas located in the first gap.
+A second RF power supply is connected to the second electrode and is configured to predominantly deliver power to plasmas located in the second and third gaps.
+In such a configuration, the power density of the plasmas located in the first gap can be independently controlled relative to the power density of the plasmas located in the second and third gaps.
+An ion source having an ion generation container configured to generate ions by reacting ionized gas introduced into the container via a tubular gas introduction pipe with an ion source material emitted in the container.
+The gas introduction pipe is configured to introduce the ionized gas into an inner space of the gas introduction pipe via a gas supply pipe.
+In the inner space of the gas introduction pipe, a detachable cooling trap member is disposed and includes a cooling trap portion configured to cool and trap a byproduct produced in the ion generation container.
+The cooling trap portion is disposed near a supply-side leading end of the gas supply pipe in the inner space of the gas introduction pipe and is not contact with an interior wall face of the gas introduction pipe.
+An apparatus includes an upper electrode and a lower electrode for supporting a wafer disposed opposite each other within a process chamber.
+A first RF power supply configured to apply a first RF power having a relatively higher frequency, and a second RF power supply configured to apply a second RF power having a relatively lower frequency is connected to the lower electrode.
+A variable DC power supply is connected to the upper electrode.
+A process gas is supplied into the process chamber to generate plasma of the process gas so as to perform plasma etching.
+Trench gate power MOSFET with an on-region.
+Cells in the on-region include a first epitaxial layer and a channel region.
+First trenches corresponding to polysilicon gates penetrate through the channel region, and each polysilicon gate is etched to form a groove in the top, the grooves filled with an interlayer film.
+A source region formed on side faces of the grooves in a self-aligned mode through angled ion implantation.
+Through the source region of a side structure, the surface of a portion, between the first trenches, of the channel region is directly exposed and formed with a well contact region.
+A front metal layer is formed on the surfaces of the cells in the on-region and leads out a source.
+The front metal layer of the source directly makes contact with well contact region and source region to form a connection structure without contact holes.
+A substrate including an insulating layer, a semiconductor layer, and an insulating film stacked on a semiconductor substrate and having a trench filled with an element isolation portion is provided.
+After removal of the insulating film from a bulk region by a first dry etching, the semiconductor layer is removed from the bulk region by a second dry etching.
+Then, the insulating film in an SOI region and the insulating layer in the bulk region are removed.
+A gas containing a fluorocarbon gas is used for first dry etching.
+The etching thickness of the element isolation portion by a first dry etching is at least equal to the sum of the thicknesses of the insulating film just before starting the first dry etching and the semiconductor layer just before starting the first dry etching.
+After first dry etching and before second dry etching, oxygen plasma treatment is performed.
+A method of forming integrated circuit (IC) chips.
+After masking a layer of a material to be etched, the layer is subjected to an atomic layer etch (ALE).
+During the ALE, etch effluent is measured with a calorimetric probe.
+The calorimetric probe results reflect a species of particles resulting from etching the material.
+The measured etch results are checked until the results indicate the particle content is below a threshold value.
+When the content is below the threshold ALE is complete and IC chip fabrication continues normally.
+Embodiments are directed to a method of forming a semiconductor device and resulting structures having a shallow, abrupt and highly activated tin (Sn) extension implant junction.
+The method includes forming a semiconductor fin on a substrate.
+A gate is formed over a channel region of the semiconductor fin.
+A Sn extension implant junction is formed on a surface of the semiconductor fin in the channel region.
+A structure of trench VDMOS transistor comprises an n− epi-layer/ n+ substrate having trench gates formed therein, which have a trench oxide layer conformally formed and filled with a first poly-Si layer.
+A plurality of MOS structure formed on the mesas.
+Doubled diffused source regions are formed asides the MOS structure.
+An inter-metal dielectric layer is formed on the resulted surfaces.
+An interconnecting metal layer patterned as two is formed on inter-metal dielectric layer.
+The one is for source regions and the first poly-Si layer connection by source contact plugs and the other for the gate connection by gate contact plugs.
+In the other embodiment, the trenches are filled with a stack layer of a first oxide layer/a first poly-Si layer.
+The MOS gates with their second poly-Si layer in a form of rows are formed on the first oxide layer and the mesas.
+An inter-metal dielectric layer is formed on the resulted surfaces.
+An interconnecting metal layer is formed on the inter-metal dielectric layer and through the source contact plugs connecting the source regions and the first poly-Si layer.
+The drain electrode is formed on the rear surface of the n+ substrate for both embodiments.
+A high-voltage semiconductor device is disclosed.
+The high-voltage semiconductor device includes a gate structure on a substrate structure.
+A drain doped region and a source doped region are located close to opposite sides of the gate structure.
+The source doped region, the gate structure and the drain doped region are located close to a top surface of the substrate structure.
+A super junction doped structure is located close to the drain doped region.
+The super junction doped structure includes a plurality of first conductive type doped sub-regions extending along a first direction and arranged along a second direction.
+A plurality of second conductive type doped sub-regions extends along the first direction and is arranged staggered with the first conductive type doped sub-regions.
+The widths of the first conductive type doped sub-regions and the second conductive type doped sub-regions along the second direction decrease linearly along the second direction.
+Disclosed are a method of plasma etching and a method of fabricating a semiconductor device including the same.
+The method of plasma etching includes loading a substrate including an etch target onto a first electrode in a chamber, the chamber including the first electrode and a second electrode arranged to face each other, and etching the target.
+The etching the target includes applying a plurality of RF powers to one of the first and second electrodes.
+The plurality of RF powers may include a first RF power having a first frequency in a range from about 40 MHz to about 300 MHz, a second RF power having a second frequency in a range from about 100 kHz to about 10 MHz, and a third RF power having a third frequency in a range from about 10 kHz to about 5 MHz.
+A segmented edge protection shield for plasma dicing a wafer.
+The segmented edge protection shield includes an outer structure and a plurality of plasma shield edge segments.
+The outer structure defines an interior annular edge configured to correspond to the circumferential edge of the wafer.
+Each one of the plurality of plasma shield edge segments is defined by an inner edge and side edges.
+The inner edge is interior to and concentric to the annular edge of the outer structure.
+The side edges extend between the inner edge and the annular edge.
+Disclosed are an apparatus and a method for cleaning a component of a substrate dry processing apparatus.
+The method for cleaning a component of a substrate dry processing apparatus includes dipping the component in a cleaning solution received in a cleaning bath, generating radicals from the cleaning solution, and cleaning the component with the radicals.
+The component is cleaned with hydrogen radicals (H2*) and hydroxyl radicals (OH*) generated from ozone water.
+Accordingly, it is possible to rapidly remove carbon (C) and fluorine (F) deposited on the component.
+There is provided a semiconductor device and a method for manufacturing a semiconductor device.
+Within the N-type semiconductor layer formed from a high resistance N-type substrate, the P-type well diffusion layer and P-type extraction layer are formed and are fixed to ground potential.
+Due thereto, a depletion layer spreading on the P-type well diffusion layer side does not reach the interlayer boundary between the P-type well diffusion layer and the buried oxide film.
+Hence, the potential around the surface of the P-type well diffusion layer is kept at a ground potential.
+Accordingly, when the voltages are applied to the backside of the N-type semiconductor layer and a cathode electrode, a channel region at the MOS-type semiconductor formed as a P-type semiconductor layer is not activated.
+Due thereto, leakage current that may occur independently of a control due to the gate electrode of a transistor can be suppressed.
+Non-planar semiconductor devices having doped sub-fin regions and methods of fabricating non-planar semiconductor devices having doped sub-fin regions are described.
+For example, a method of fabricating a semiconductor structure involves forming a plurality of semiconductor fins above a semiconductor substrate.
+A solid state dopant source layer is formed above the semiconductor substrate, conformal with the plurality of semiconductor fins.
+A dielectric layer is formed above the solid state dopant source layer.
+The dielectric layer and the solid state dopant source layer are recessed to approximately a same level below a top surface of the plurality of semiconductor fins, exposing protruding portions of each of the plurality of semiconductor fins above sub-fin regions of each of the plurality of semiconductor fins.
+The method also involves driving dopants from the solid state dopant source layer into the sub-fin regions of each of the plurality of semiconductor fins.
+A high voltage MOS device includes: a first drift region with a first conductive type, a body region with a second conductive type, plural second drift regions with the second conductive type, a gate, a source region with the first conductive type, a drain with the first conductive type, and a body contact region with the second conductive type.
+The plural second drift regions contact the body region along the lateral direction, and are located separately in the width direction.
+Any neighboring two second drift regions do not contact each other.
+Each of the second drift regions is separated from the drain by the first drift region.
+Metal-Oxide-Semiconductor (MOS) controlled semiconductor devices and methods of making the devices are provided.
+The devices include a gate which controls current flow through channel regions positioned between source/emitter and drain regions of the device.
+The devices include a gate oxide layer having a variable thickness.
+The thickness of the gate oxide layer under the edge of the gate and over the source/emitter regions is different than the thickness over the channel regions of the device.
+The oxide layer thickness near the edge of the gate can be greater than the oxide layer thickness over the channel regions.
+The source/emitter regions can be implanted to provide enhanced oxide growth during gate oxide formation.
+The source/emitter region can include regions that are implanted to provide enhanced oxide growth during gate oxide formation and regions which do not provide enhanced oxide growth during gate oxide formation.
+The devices can be SiC devices such as SiC MOSFETs and SiC IGBTs.
+Embodiments disclosed herein include a plasma abatement process that takes effluent from a processing chamber and reacts the effluent with water vapor reagent within a plasma source placed in a foreline by injecting the water vapor reagent into the foreline or the plasma source.
+The materials present in the effluent as well as the water vapor reagent are energized by the plasma source, converting the materials into gas species such as HF that is readily scrubbed by typical water scrubbing abatement technology.
+An oxygen containing gas is periodically injected into the foreline or the plasma source relative to the water vapor injection to reduce or avoid the generation of solid particles.
+The abatement process has good destruction removal efficiency (DRE) with minimized solid particle generation.
+A method of cleaning a bevel edge of a semiconductor substrate is provided.
+A semiconductor substrate is placed on a substrate support in a reaction chamber of a plasma processing apparatus.
+The substrate has a dielectric layer overlying a top surface and a bevel edge of the substrate, the layer extending above and below an apex of the bevel edge.
+A process gas is introduced into the reaction chamber and energized into a plasma.
+The bevel edge is cleaned with the plasma so as to remove the layer below the apex without removing all of the layer above the apex.
+A method for forming a semiconductor device is provided.
+A substrate is provided.
+An epitaxial layer is formed on the substrate.
+An insulation region and an active region are defined on the upper surface of the epitaxial layer.
+An insulation structure is formed within the insulation region by an ion implantation process and an etching process, wherein the insulation structure includes a first insulation structure and a second insulation structure.
+A gate is formed on the epitaxial layer and is disposed within the active region.
+A source and a drain are formed on opposite sides of the gate and within the active region.
+A semiconductor device is also provided.
+Integrated circuits including an electrostatic discharge device and methods of forming the integrated circuits are provided herein.
+In an embodiment, an integrated circuit includes an n-type epitaxy layer, a segmented p-well, a p-type buried layer, and a collector region.
+The segmented p-well is formed in the n-type epitaxy layer.
+The segmented p-well defines and laterally surrounds a spacing region of the n-type epitaxy layer.
+The p-type buried layer is formed in the spacing region.
+The p-type buried layer laterally extends into the segmented p-well about the spacing region and impedes current flow between an underlying portion of the n-type epitaxy layer in relation to the p-type buried layer and an overlying portion of the n-type epitaxy layer in the spacing region.
+The collector region of the electrostatic discharge device is formed in the overlying portion of the n-type epitaxy layer in the spacing region.
+A semiconductor device includes a semiconductor substrate, trench isolations, a sacrificial layer, a first resist protect oxide (RPO) layer, a second RPO layer and a silicide layer.
+The semiconductor substrate has first portions and second portions which are alternately disposed, and each of the second portions includes a first resist region with a first resistance, a second resist region with a second resistance and a silicide region.
+The second resistance is greater than the first resistance.
+The trench isolations are in the first portions.
+The sacrificial layer is on the first resist region.
+The first RPO layer is on the sacrificial layer.
+The first RPO layer together with the sacrificial layer have a first thickness.
+The second RPO layer is on the second resist region, in which the second RPO layer has a second thickness smaller than the first thickness.
+The silicide layer is on the silicide region.
+A semiconductor structure includes a plurality of stacks, a plurality of active pillars, and an insulating material.
+The stacks are separated from each other by a plurality of trenches.
+The active pillars are disposed in the trenches and separated from each other in each of the trenches.
+Each of the active pillars comprises two n-type heavily doped portions at two sides thereof.
+Each of the two n-type heavily doped portions extends in a substantially vertical direction.
+Each of the two n-type heavily doped portions connects corresponding two stacks of the plurality of stack.
+The insulating material is located in remaining spaces of the trenches between the active pillars.
+The insulating material is a silicon glass comprising an element which is applicable as a n-type dopant.

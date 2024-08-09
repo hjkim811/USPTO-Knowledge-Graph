@@ -1,0 +1,302 @@
+A system and method for depositing a photoresist and utilizing the photoresist are provided.
+In an embodiment a deposition chamber is utilized along with a first precursor material comprising carbon-carbon double bonds and a second precursor material comprising repeating units to deposit the photoresist onto a substrate.
+The first precursor material is turned into a plasma in a remote plasma chamber prior to being introduced into the deposition chamber.
+The resulting photoresist comprises a carbon backbone with carbon-carbon double bonds.
+According to one embodiment, a method for manufacturing a device includes a first process, a second process, a third process, and a fourth process.
+The first process includes providing a structure body at a first surface of a substrate.
+The substrate is light-transmissive and has a second surface.
+A light transmissivity of the structure body is lower than a light transmissivity of the substrate.
+The second process includes providing a negative-type photoresist at the second surface.
+The third process includes irradiating the substrate with light to expose a portion of the photoresist.
+The light is irradiated in a first direction from the first surface toward the second surface.
+The light passes through the substrate.
+The fourth process includes developing the photoresist to remain the portion of the photoresist in a state of being adhered to the second surface and to remove other portion of the photoresist.
+A technique for patterning a workpiece such as an integrated circuit workpiece is provided.
+In an exemplary embodiment, the method includes receiving a dataset specifying a plurality features to be formed on the workpiece.
+A first patterning of a hard mask of the workpiece is performed based on a first set of features of the plurality of features, and a first spacer material is deposited on a sidewall of the patterned hard mask.
+A second patterning is performed based on a second set of features, and a second spacer material is deposited on a sidewall of the first spacer material.
+A third patterning is performed based on a third set of features.
+A portion of the workpiece is selectively processed using a pattern defined by a remainder of at least one of the patterned hard mask layer, the first spacer material, or the second spacer material.
+In a method of manufacturing an SRAM device, an insulating layer is formed over a substrate.
+First dummy patterns are formed over the insulating layer.
+Sidewall spacer layers, as second dummy patterns, are formed on sidewalls of the first dummy patterns.
+The first dummy patterns are removed, thereby leaving the second dummy patterns over the insulating layer.
+After removing the first dummy patterns, the second dummy patterns are divided.
+A mask layer is formed over the insulating layer and between the divided second dummy patterns.
+After forming the mask layer, the divided second dummy patterns are removed, thereby forming a hard mask layer having openings that correspond to the patterned second dummy patterns.
+The insulating layer is formed by using the hard mask layer as an etching mask, thereby forming via openings in the insulating layer.
+A conductive material is filled in the via openings, thereby forming contact bars.
+In some embodiments, a method for forming an integrated circuit is provided.
+The method includes forming a first layer over a semiconductor wafer, the first layer having a first portion and a second portion.
+The first portion is patterned by projecting a first image field over the first portion of the first layer, where the first portion of the first layer corresponds to the first image field.
+The second portion is patterned by projecting a second image field over the second portion of the first layer, where the second portion of the first layer corresponds to the second image field.
+A second layer is formed over the first layer.
+The second layer is patterned by projecting a third image field over the second layer, where the third image field covers a majority of the first portion and a majority of the second portion of the first layer.
+A method for forming a semiconductor device structure is provided.
+The semiconductor device structure includes forming a film over a substrate.
+The semiconductor device structure includes forming a first mask layer over the film.
+The semiconductor device structure includes forming a second mask layer over the first mask layer.
+The second mask layer exposes a first portion of the first mask layer.
+The semiconductor device structure includes performing a plasma etching and deposition process to remove the first portion of the first mask layer and to form a protection layer over a first sidewall of the second mask layer.
+The first mask layer exposes a second portion of the film after the plasma etching and deposition process.
+The semiconductor device structure includes removing the second portion using the first mask layer and the second mask layer as an etching mask.
+A vertical transistor device and its fabrication method are provided.
+The vertical transistor device includes a semiconductor substrate, first sources/drains and second sources/drains.
+The semiconductor substrate includes a bottom portion and a fin portion.
+The fin portion is located on the bottom portion.
+The fin portion includes an upper portion and a lower portion located between the bottom portion of the semiconductor substrate and the upper portion.
+The lower portion includes a narrow portion having a width smaller than a width of the upper portion, and the narrow portion contacts an interface portion of the upper portion.
+The sources/drains are disposed on the on the narrow portion of the lower portion of the fin portion.
+In the method for fabricating the vertical transistor device, the lower portions of the fin portions are patterned to form the narrow portions where the sources are disposed.
+According to one embodiment, an imprint method is provided.
+In the imprint method, a template including a mechanoluminescent material is brought into contact with a resist on a substrate.
+The posture of the template is adjusted on the basis of the intensity of mechanoluminescence from the template.
+Light is emitted to the resist to harden the resist.
+The template is separated from the resist.
+A processing chamber system includes a substrate mounting module configured to secure a substrate within a first processing chamber.
+The system also includes a first deposition module configured to apply a light-sensitive film to a front side surface of the substrate, and a second deposition module configured to apply a film layer to a backside surface of the substrate.
+The front side surface is opposite to the backside surface of the substrate.
+A substrate has a bare backside surface with a first coefficient of friction.
+A film layer is formed onto the backside surface of the substrate.
+The film layer formed on the backside surface of the substrate has a second coefficient of friction.
+The second coefficient of friction is lower than the first coefficient of friction.
+Provided is a semiconductor device including a substrate, an isolation structure, a barrier structure, a first conductive layer, a second conductive layer, a first gate dielectric layer, and a second gate dielectric layer.
+The substrate has a first region and a second region.
+The barrier structure is located on the isolation structure.
+The first conductive layer is located on the first region.
+The second conductive layer is located on the second region.
+The first gate dielectric layer is located between the first conductive layer and the substrate in the first region.
+The second gate dielectric layer is located between the second conductive layer and the substrate in the second region.
+The first gate dielectric layer and the second gate dielectric layer are separated by the isolation structure.
+A method of manufacturing the semiconductor device is also provided.
+Various embodiments of the present application are directed to an IC, and associated forming methods.
+In some embodiments, the IC comprises a memory region and a logic region integrated in a substrate.
+A plurality of memory cell structures is disposed on the memory region.
+A plurality of logic devices is disposed on the logic region.
+A sidewall spacer is disposed along a sidewall surface of the logic devices, but not disposed along a sidewall surface of the memory cell structures.
+Thus, the inter-layer dielectric (ILD) fill-in window between adjacent memory cell structures is enlarged, compared to the approaches where the sidewall spacer is concurrently formed in both memory region and the logic region.
+Thereby, voids formation would be reduced or eliminated, and device quality would be improved.
+An integrated circuit device includes first and second features, each including an end portion arranged along a common axis, and separated by a space.
+The end portion of the first feature includes a first indention adjacent to the space.
+The end portion of the second feature includes a first indention adjacent to the space, mirroring the first indention of the first feature about the space.
+The end portions are substantially similar in shape.
+In a method of manufacturing a semiconductor device, an underlying structure is formed.
+A surface grafting layer is formed on the underlying structure.
+A photo resist layer is formed on the surface grafting layer.
+The surface grafting layer includes a coating material including a backbone polymer, a surface grafting unit coupled to the backbone polymer and an adhesion unit coupled to the backbone polymer.
+A method of descumming a dielectric layer is provided.
+In an embodiment the dielectric layer is deposited over a substrate, and a photoresist is applied, exposed, and developed after the photoresist has been applied.
+Once the pattern of the photoresist is transferred to the underlying dielectric layer, a descumming process is performed, wherein the descumming process utilizes a mixture of a carbon-containing precursor, a descumming precursor, and a carrier gas.
+The mixture is ignited into a treatment plasma, and the treatment plasma is applied to the dielectric layer in order to descum the dielectric layer.
+Trench gate power MOSFET with an on-region.
+Cells in the on-region include a first epitaxial layer and a channel region.
+First trenches corresponding to polysilicon gates penetrate through the channel region, and each polysilicon gate is etched to form a groove in the top, the grooves filled with an interlayer film.
+A source region formed on side faces of the grooves in a self-aligned mode through angled ion implantation.
+Through the source region of a side structure, the surface of a portion, between the first trenches, of the channel region is directly exposed and formed with a well contact region.
+A front metal layer is formed on the surfaces of the cells in the on-region and leads out a source.
+The front metal layer of the source directly makes contact with well contact region and source region to form a connection structure without contact holes.
+A method of forming a structure for etch masking that includes forming first dielectric spacers on sidewalls of a plurality of mandrel structures and forming non-mandrel structures in space between adjacent first dielectric spacers.
+Second dielectric spacers are formed on sidewalls of an etch mask having a window that exposes a connecting portion of a centralized first dielectric spacer.
+The connecting portion of the centralized first dielectric spacer is removed.
+The mandrel structures and non-mandrel structures are removed selectively to the first dielectric spacers to provide an etch mask.
+The connecting portion removed from the centralized first dielectric spacer provides an opening connecting a first trench corresponding to the mandrel structures and a second trench corresponding to the non-mandrel structures.
+A method of forming an overlay mark structure includes the following steps.
+An insulation layer is formed on a substrate.
+A first overlay mark is formed in the insulation layer.
+A metal layer is formed on the substrate.
+The metal layer covers the insulation layer and the first overlay mark.
+The metal layer on the first overlay mark is removed.
+A top surface of the first overlay mark is lower than a top surface of the insulation layer after the step of removing the metal layer on the first overlay mark.
+A second overlay mark is formed on the metal layer.
+In the method of forming the overlay mark structure, the first overlay mark may not be covered by the metal layer for avoiding influences on related measurements, and the second overlay mark may be formed on the metal layer for avoiding related defects generated by the height difference.
+A method includes etching a first semiconductor fin and a second semiconductor fin to form first recesses.
+The first and the second semiconductor fins have a first distance.
+A third semiconductor fin and a fourth semiconductor fin are etched to form second recesses.
+The third and the fourth semiconductor fins have a second distance equal to or smaller than the first distance.
+An epitaxy is performed to simultaneously grow first epitaxy semiconductor regions from the first recesses and second epitaxy semiconductor regions from the second recesses.
+The first epitaxy semiconductor regions are merged with each other, and the second epitaxy semiconductor regions are separated from each other.
+A high-voltage semiconductor device is disclosed.
+The high-voltage semiconductor device includes a gate structure on a substrate structure.
+A drain doped region and a source doped region are located close to opposite sides of the gate structure.
+The source doped region, the gate structure and the drain doped region are located close to a top surface of the substrate structure.
+A super junction doped structure is located close to the drain doped region.
+The super junction doped structure includes a plurality of first conductive type doped sub-regions extending along a first direction and arranged along a second direction.
+A plurality of second conductive type doped sub-regions extends along the first direction and is arranged staggered with the first conductive type doped sub-regions.
+The widths of the first conductive type doped sub-regions and the second conductive type doped sub-regions along the second direction decrease linearly along the second direction.
+A wafer is rinsed with a solvent.
+The wafer has an increased hydrophobicity as a result of being rinsed with the solvent.
+A metal-containing material is formed over the wafer after the wafer has been rinsed with the solvent.
+One or more lithography processes are performed at least in part using the metal-containing material.
+The metal-containing material is removed during or after the performing of the one or more lithography processes.
+The increased hydrophobicity of the wafer facilitates a removal of the metal-containing material.
+Methods are described for removing edge bead on a wafer associated with a resist coating comprising a metal containing resist compositions.
+The methods can comprise applying a first bead edge rinse solution along a wafer edge following spin coating of the wafer with the metal based resist composition, wherein the edge bead solution comprises an organic solvent and an additive comprising a carboxylic acid, an inorganic fluorinated acid, a tetraalkylammonium compound, or a mixture thereof.
+Alternatively or additionally, the methods can comprise applying a protective composition to the wafer prior to performing an edge bead rinse.
+The protective composition can be a sacrificial material or an anti-adhesion material and can be applied only to the wafer edge or across the entire wafer in the case of the protective composition.
+Corresponding apparatuses for processing the wafers using these methods are presented.
+An upper plate on which a substrate is placed is cooled or heated by a thermal processor.
+The temperature of the thermal processor is adjusted by a temperature adjuster.
+The temperature of the upper plate is detected.
+A control value that is to be applied to the temperature adjuster in order to maintain the temperature of the upper plate at a set value is calculated as a control arithmetic value on the basis of the detected temperature.
+When the control arithmetic value decreases to a value less than a second threshold value, a first control that applies the control arithmetic value to the temperature adjuster is performed.
+When the control arithmetic value increases to a value not less than a first threshold value, a second control that applies a control set value higher than the control arithmetic value to the temperature adjuster is performed.
+A fin-type field-effect transistor device includes a substrate, insulators, gate stacks and dielectric strips.
+The substrate includes a first doped region, a second doped region, third doped blocks located above the first doped region and fourth doped blocks located above the second doped region, and fins located above the third doped blocks and the fourth doped blocks, wherein doping concentrations of the third doped blocks are lower than a doping concentration of the first doped region, and doping concentrations of the fourth doped blocks are lower than a doping concentration of the second doped region.
+The insulators are disposed on the third doped blocks and the fourth doped blocks of the substrate and covering the fins.
+The dielectric strips are disposed in between the fins, and in between the third doped blocks and the fourth doped blocks.
+The gate stacks are disposed over the fins and above the insulators.
+A semiconductor device includes a substrate including a first region and a second region, memory transistors on the first region, a first interconnection layer on the memory transistors and including first interconnection lines, and a second interconnection layer on the first interconnection layer and including second interconnection lines.
+The second interconnection lines on the first region include a first line extending along a first direction and spaced from the second region by a first distance along the first direction, and a second line extending along the first direction, spaced from the first line along a second direction intersecting the first direction, and having a width smaller than that of the first line.
+The first line includes a protrusion extending along a third direction toward the substrate.
+The protrusion is spaced from the second region by a second distance along the first direction greater than the first distance.
+A substrate having a target material layer is provided.
+A first hard mask layer, a second hard mask layer, and a photoresist layer are formed on the target material layer.
+The photoresist layer is transferred into first patterns on the second hard mask layer.
+Regions of the second hard mask layer not protected by the first patterns are etched away, thereby forming second patterns.
+The first patterns are trimmed to form trimmed features.
+A conformal spacer material layer is deposited on the trimmed features, the second patterns, and the first hard mask.
+The spacer material layer is etched to form first spacers on sidewalls of the trimmed features, and second spacers on sidewalls of the second patterns.
+The trimmed features are removed.
+Regions of the second patterns not protected by the first spacers are removed, thereby forming patterns with a reduced, fine pitch.
+Grating based plugs and cuts for feature end formation for back end of line (BEOL) interconnects are described.
+In an example, a method of fabricating an interconnect structure for a semiconductor die includes forming a hardmask layer above an interlayer dielectric (ILD) material layer.
+A first patterned hardmask layer is formed above the hardmask layer.
+A second patterned hardmask layer is formed above the first patterned hardmask layer.
+A lithographic patterning mask is formed above the second patterned hardmask layer.
+Portions of the second patterned hardmask layer not protected by the regions of the lithographic patterning mask are removed to form a third patterned hardmask layer and then the lithographic patterning mask is removed.
+A combined pattern of the third patterned hardmask layer and the first patterned hardmask layer is transferred to the hardmask layer and to the ILD material layer.
+Methods of depositing a film selectively onto a first material relative to a second material are described.
+The substrate is pre-cleaned by heating the substrate to a first temperature, cleaning contaminants from the substrate and activating the first surface to promote formation of a self-assembled monolayer (SAM) on the first material.
+A SAM is formed on the first material by repeated cycles of SAM molecule exposure, heating and reactivation of the first material.
+A final exposure to the SAM molecules is performed prior to selectively depositing a film on the second material.
+Apparatus to perform the selective deposition are also described.
+In a method of manufacturing a semiconductor device, a photo resist layer is formed over a substrate with underlying structures.
+The first photo resist layer is exposed to exposure radiation.
+The exposed first photo resist layer is developed with a developing solution.
+A planarization layer is formed over the developed photo resist layer.
+The underlying structures include concave portions, and a part of the concave portions is not filled by the developed first photo resist.
+Described herein methods of manufacturing dual-sided packaged electronic modules that control the distribution of an under-fill material between one or more components and a packaging substrate.
+The disclosed technologies include under-filling one or more components and deflashing a portion of the under-fill to remove under-fill material prior to attaching solder balls.
+The deflashing step removes a thin layer of under-fill material that may have coated contact pads for the ball grid array.
+Because the solder balls are not present during under-fill, there is little capillary action drawing material away from the components being under-filled.
+This can reduce the frequency of voids under the components being under-filled.
+Accordingly, the disclosed technologies control under-fill for dual-sided ball grid array packages using under-fill deflash prior to attaching solder balls of the ball grid array.
+A semiconductor structure includes a substrate having a first region and a second region, a first source/drain disposed on the substrate in the first region, an interlevel dielectric (ILD) disposed on the source/drain, and a first gate disposed on the substrate.
+The semiconductor structure further includes a first contact trench within the ILD extending to the first source/drain, a first trench contact within the first contact trench, and a first source/drain contact trench extending to the first trench contact.
+The semiconductor structure further includes a cross couple contact trench within the ILD, and a cross couple contact disposed in the cross couple contact trench in contact with the first gate and the first trench contact.
+The cross couple contact couples the first source/drain and the first gate.
+A method of forming an electronic device includes forming an opening through a dielectric layer located over a first resistive layer, the first resistive layer having a first sheet resistance.
+A second resistive layer is deposited over the dielectric layer and into the opening.
+The second resistive layer has a second sheet resistance different from the first sheet resistance.
+A portion of the second resistive layer is removed, thereby forming first and second noncontiguous portions of the second resistive layer, wherein the second portion of the second resistive layer contacts the first resistive layer.
+An overlay metrology target (T) is formed by a lithographic process.
+A first image (740(0)) of the target structure is obtained using with illuminating radiation having a first angular distribution, the first image being formed using radiation diffracted in a first direction (X) and radiation diffracted in a second direction (Y).
+A second image (740(R)) of the target structure using illuminating radiation having a second angular illumination distribution which the same as the first angular distribution, but rotated 90 degrees.
+The first image and the second image can be used together so as to discriminate between radiation diffracted in the first direction and radiation diffracted in the second direction by the same part of the target structure.
+This discrimination allows overlay and other asymmetry-related properties to be measured independently in X and Y, even in the presence of two-dimensional structures within the same part of the target structure.
+A heating plate is stored in a chamber.
+With a solvent containing gas present in the chamber, a substrate on which a DSA film is formed is held at a position further upward than the heating plate.
+Thus, neutralization of an atmosphere is performed at a temperature at which microphase separation does not occur.
+Thereafter, with the solvent containing gas present in the chamber, the substrate is held on an upper surface of the heating plate.
+Thus, thermal processing is performed on the DSA film on the substrate.
+In an exemplary method, a first layer is formed on a substrate.
+First overlay marks are formed in a first zone of the first layer.
+A non-transparent layer is formed on top of the first layer.
+At least a portion of the non-transparent layer is removed from an area above the first zone of the first layer.
+This provides optical access to the first overlay marks.
+A second layer is formed on top of the non-transparent layer.
+Second overlay marks are formed in a second zone of the second layer.
+Position information is obtained from each of the first overlay marks and the second overlay marks.
+Structures for a field-effect transistor and methods of forming a field-effect transistor.
+A sidewall spacer is arranged adjacent to a sidewall of a gate electrode, a source/drain region is arranged laterally adjacent to the sidewall spacer, and a contact is arranged over the source/drain region and laterally adjacent to the sidewall spacer.
+The contact is coupled with the source/drain region.
+A section of an interlayer dielectric layer is laterally arranged between the contact and the sidewall spacer.
+In accordance with an embodiment of the present invention, a method of testing a plurality of semiconductor devices includes applying a stress voltage having a peak voltage on a shield line disposed over a substrate.
+The substrate has functional circuitry of a semiconductor device.
+A fixed voltage is applied to a first metal line disposed above the substrate adjacent the shield line.
+The first metal line is coupled to the functional circuitry and is configured to be coupled to a high voltage node during operation.
+The peak voltage is greater than a maximum fixed voltage.
+The shield line separates the first metal line from an adjacent second metal line configured to be coupled to a low voltage node during operation.
+The method further includes measuring a current through the shield line in response to the stress voltage, determining the current through the shield line of the semiconductor device, and based on the determination, identifying the semiconductor device as passing the test.
+A vertical memory device is provided.
+The vertical memory device includes a substrate, first gate electrodes, a channel, first wirings, and second wirings.
+The substrate includes a cell region and a peripheral circuit region.
+The first gate electrodes are spaced apart from each other in a first direction on the cell region of the substrate, the first direction being substantially perpendicular to the substrate.
+The channel extends through a portion of the first gate electrodes in the first direction on the cell region.
+The first wirings are formed on the cell region, and are disposed at first levels that are higher in the first direction than gate electrode levels on which the first gate electrodes are respectively formed.
+The second wirings are formed on the peripheral circuit region, and are disposed at the first levels and at a second level that is higher than the gate electrode levels.
+A semiconductor structure includes a semiconductor substrate, a gate structure, a first gate spacer, an interlayer dielectric layer, a contact stop layer, and an air gap.
+The gate structure is disposed over the semiconductor substrate.
+The first gate spacer covers a first sidewall of the gate structure.
+The interlayer dielectric layer is adjacent to the first gate spacer.
+The contact stop layer is positioned over the first gate spacer and the interlayer dielectric layer.
+The air gap is between the first gate spacer and the interlayer dielectric layer.
+The contact stop layer includes a capping portion that seals a top of the air gap.
+A sensor device including a substrate that is transparent and/or flexible, and a transparent sensor array disposed on the substrate.
+The transparent sensor array includes transparent sensor circuits and transparent interconnects electrically coupled to the transparent sensor circuits.
+Each of the transparent sensor circuits includes a transparent transistor.
+A transparent slide may include a transparent sensor circuit disposed on a transparent substrate.
+The slide may be prepared for observation of a specimen by placing the specimen in fluidic communication with the transparent sensor circuit.
+A flexible sensor device may include an array of transparent sensor circuits disposed on a flexible substrate.
+The flexible sensor device may be placed on the surface of an object to determine parameters at locations adjacent to the surface of the object.
+A method of fabricating an integrated circuit may include using a multilayer etch mask of electron-beam resist and photoresist.
+Manufacturing a semiconductor device includes forming a pad oxide layer on a semiconductor substrate.
+A hard mask layer is formed over the pad oxide layer.
+An anti-reflective layer (ARL) is formed over the hard mask layer.
+A first photoresist layer is formed over the ARL.
+The first photoresist layer is patterned and the hard mask layer and ARL are removed.
+Remaining portions of the first photoresist layer and the ARL are removed, and a patterned hard mask layer is formed.
+The pad oxide layer and the semiconductor substrate are etched to obtain a plurality of fins.
+A bottom layer is formed over and between the fins.
+A middle layer is formed over the bottom layer and a second photoresist layer is formed on the middle layer.
+The second photoresist layer is patterned to form an opening and a spacer is formed in an opening formed in the second photoresist layer.
+A substrate is rotated with a holding rotator to form a coating liquid film on the substrate, and at least a part of an excess of the coating liquid is pushed out toward a periphery edge of the substrate by a centrifugal force caused by the rotation of the substrate to build up the excess of the coating liquid along the periphery edge of the substrate.
+Moreover, gas is blown to the periphery edge of the substrate through a gas nozzle to exhaust the excess of the coating liquid building up at the periphery edge.
+Blowing the gas toward the periphery edge of the substrate through the gas nozzle makes the coating liquid unbalanced that builds up without being exhausted outside the substrate due to its surface tension.
+Accordingly, the rotation achieves the coating liquid film having a uniform thickness while the coating liquid film is formed to be thick.
+The various technologies presented herein relate to formation of carbon micromechanical systems (CMEMS), wherein the CMEMS comprise multiple layers of carbon structures and are formed using a plurality of photoresist precursors that are processed to form carbon.
+The various embodiments can be utilized in producing a plurality of CMEMS with full production level fabrication, e.g., 6 inch wafers can be processed.
+A pyrolyzed layer of carbon is lithographically defined after pyrolysis, wherein the post-pyrolysis etch process can produce carbon structures having repeatable and accurate device geometries, with straight sidewalls.
+A sacrificial layer can be applied to facilitate separation of a first carbon layer from a second carbon layer, wherein, upon pyrolysis to form the second carbon layer and lithography thereof, the sacrificial layer is removed to form a CMEMS comprising a first carbon layer (e.g., comprising bottom contacts) located beneath a second carbon layer (e.g., a mechanical layer).
+A display device that is suitable for increasing in size is achieved.
+Three or more source lines are provided for each pixel column.
+Video signals having the same polarity are input to adjacent source lines during one frame period.
+Dot inversion driving is used to reduce a flicker, crosstalk, or the like.
+A method for performing a photolithography process is provided.
+The method includes forming a resist layer over a substrate and exposing a portion of the resist layer to form an exposed region and an unexposed region by performing an exposure process.
+The method includes performing a baking process on the resist layer, so that voids are formed in the exposed region of the resist layer.
+The method also includes removing the unexposed region of the resist layer to form a recess in the resist layer and filling a post treatment coating material in the recess and the void.
+The method further includes removing a portion of the post treatment coating material by performing a second develop process, and another portion of the post treatment coating material is left on surfaces of the exposed region of the resist layer to form a patterned resist layer.
+A semiconductor structure and a method for fabricating the semiconductor structure are provided.
+The method includes providing a base substrate, and forming an interlayer dielectric layer on the base substrate and having an opening exposing surface portions of the base substrate.
+The method also includes forming a stacked structure on a bottom and sidewall of the opening and on a top of the interlayer dielectric layer.
+In addition, the method includes removing at least a first portion of the stacked structure from the top of the interlayer dielectric layer.
+Further, the method includes performing an annealing treatment on the base substrate, and forming a gate structure by filling the opening with a metal layer.
+Embodiments of the invention are directed to a method of forming a semiconductor device.
+A non-limiting example of the method includes forming a semiconductor layer within or on a portion of a substrate, wherein the semiconductor layer includes a first type of semiconductor material.
+A gate stack is formed over a first exposed surface of the semiconductor layer.
+A first hydrogenated and doped semiconductor layer is formed over a second exposed surface of the semiconductor layer.
+A second hydrogenated and doped semiconductor layer is formed over a third exposed surface of the semiconductor layer, wherein a lateral dimension of the first hydrogenated and doped semiconductor layer terminates at a first sidewall of the gate stack, and wherein a lateral dimension of the second hydrogenated and doped semiconductor layer terminates at a second sidewall of the gate stack.
+A hard mask and a method of creating thereof are provided.
+A first layer is deposited that is configured to provide at least one of a chemical and a mechanical adhesion to a layer immediately below it.
+A second layer is deposited having an etch selectivity that is faster than the first layer.
+A third layer is deposited having an etch selectivity that is slower than the first and second layers.
+The third layer has a composite strength that is higher than the first and second layers.
+A photoresist layer is deposited on top of the third layer and chemically removed above an inner opening.
+The third layer and part of the second layer are anisotropically etched through the inner opening.
+The second layer and the first layer are isotropically etched to create overhang regions of the third layer.
+A method for forming a semiconductor device structure is provided.
+The method includes providing a substrate and forming a bottom layer, a middle layer, and a top layer on the substrate.
+The method also includes patterning the top layer to form a patterned top layer and patterning the middle layer by a patterning process including a plasma process to form a patterned middle layer.
+The plasma process is performed by using a mixed gas including hydrogen gas (H2).
+The method further includes controlling a flow rate of the hydrogen gas (H2) to improve an etching selectivity of the middle layer to the top layer, and the patterned middle layer includes a first portion and a second portion parallel to the first portion, and a pitch is between the first portion and the second portion.
+Methods for controlled isotropic etching of layers of silicon oxide and germanium oxide with atomic scale fidelity are provided.
+The methods make use of NO activation of an oxide surface.
+Once activated, a fluorine-containing gas or vapor etches the activated surface.
+Etching is self-limiting as once the activated surface is removed, etching stops since the fluorine species does not spontaneously react with the un-activated oxide surface.
+These methods may be used in interconnect pre-clean applications, gate dielectric processing, manufacturing of memory devices, or any other applications where accurate removal of one or multiple atomic layers of material is desired.
+Provided is a method for inserting a pre-designed filler cell, as a replacement to a standard filler cell, including identifying at least one gap among a plurality of functional cells.
+In some embodiments, a pre-designed filler cell is inserted within the at least one gap.
+By way of example, the pre-designed filler cell includes a layout design having a pattern associated with a particular failure mode.
+In various embodiments, a layer is patterned on a semiconductor substrate such that the pattern of the layout design is transferred to the layer on the semiconductor substrate.
+Thereafter, the patterned layer is inspected using an electron beam (e-beam) inspection process.

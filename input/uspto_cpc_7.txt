@@ -1,0 +1,272 @@
+A dilute chemical solution producing apparatus includes, in a supply line of ultrapure water, a platinum group metal carrying resin column, a membrane-type deaeration apparatus, and a gas dissolving membrane apparatus, and a washing chemical solution injection apparatus is provided between the platinum group metal carrying resin column and the membrane-type deaeration apparatus.
+An inert gas source is connected to a gas phase side of the membrane-type deaeration apparatus, and an inert gas source is also connected to a gas phase side of the gas dissolving membrane apparatus.
+A discharge line communicates with the gas dissolving membrane apparatus.
+With such a dilute chemical solution producing apparatus, a dilute chemical solution with both dissolved oxygen and dissolved hydrogen peroxide being removed can be safely produced and supplied in a washing step for semiconductor washing.
+A liquid residue on a bottom surface of a substrate can be reduced while placing the substrate accurately.
+A liquid processing apparatus includes an inclined portion, a plurality of supporting members, a processing liquid supply unit and a rotation unit.
+The inclined portion is provided under the substrate, and has an inclined surface which is inclined downwards from an outer side of the substrate toward an inner side thereof and is extended along a circumferential direction of the substrate.
+The supporting members are protruded from the inclined surface and configured to support the substrate from below.
+The processing liquid supply unit is configured to supply a processing liquid onto a top surface of the substrate.
+The rotation unit is configured to rotate the inclined portion.
+Further, each of the supporting members has a long narrow shape extended from the outer side of the substrate toward the inner side thereof.
+A silicon carbide semiconductor assembly and a method of forming a silicon carbide (SiC) semiconductor assembly are provided.
+The silicon carbide semiconductor assembly includes a semiconductor substrate and an electrode.
+The semiconductor substrate is formed of silicon carbide and includes a first surface, a second surface opposing the first surface, and a thickness extending therebetween.
+The method includes forming one or more electronic devices on the first surface and thinning the semiconductor substrate by removing the second surface to a predetermined depth of semiconductor substrate and leaving a third surface opposing the first surface.
+The method further includes forming a non-ohmic alloy layer on the third surface at a first temperature range and annealing the alloy layer at a second temperature range forming an ohmic layer, the second temperature range being greater than the first temperature range.
+According to an embodiment, a semiconductor device includes a silicon substrate, a device layer, and a lower layer.
+The device layer is formed on an upper surface of the silicon substrate.
+The lower layer is formed on a lower surface of the silicon substrate and has a side surface connecting to a side surface of the silicon substrate.
+At least a pair of side surfaces of the semiconductor device has a curved shape widening from an upper side toward a lower side.
+Package structures and methods for forming the same are provided.
+A fan-out package structure includes a semiconductor substrate.
+The package structure also includes a connector over a top surface of the semiconductor substrate.
+The package structure further includes a buffer layer surrounding the connector and overlying a sidewall of the semiconductor substrate.
+In addition, the package structure includes an encapsulation layer surrounding the buffer layer.
+The buffer layer is between the encapsulation layer and the sidewall of the semiconductor substrate.
+The package structure also includes a redistribution layer (RDL) over the buffer layer and the encapsulation layer.
+The redistribution layer is electrically connected to the connector.
+A wafer processing method for processing a wafer having devices on the front side is provided.
+The wafer processing method includes a back grinding step of grinding the wafer to form a recess and an annular reinforcing portion surrounding the recess on the back side of the wafer, and a dividing step of cutting the wafer along division lines formed on the front side of the wafer.
+In the back grinding step, a taper surface is formed between the bottom surface of the recess and the annular reinforcing portion.
+The taper surface is inclined with respect to a direction perpendicular to the bottom surface of the recess.
+In the dividing step, a cutting blade is lowered to start cutting at a position radially inside the outer circumference of the wafer and is subsequently raised to stop cutting at another position radially inside the outer circumference of the wafer.
+Fabrication of a heterostructure, such as a group III nitride heterostructure, for use in an optoelectronic device is described.
+The heterostructure can be epitaxially grown on a sacrificial layer, which is located on a substrate structure.
+The sacrificial layer can be at least partially decomposed using a laser.
+The substrate structure can be completely removed from the heterostructure or remain attached thereto.
+One or more additional solutions for detaching the substrate structure from the heterostructure can be utilized.
+The heterostructure can undergo additional processing to form the optoelectronic device.
+A method of dicing a semiconductor wafer may include forming a porous silicon layer along an outline of dies singulated from the semiconductor wafer.
+The method may include sealing an active surface of the semiconductor wafer, including the porous silicon layer.
+The method may further include back grinding a rear surface of the semiconductor wafer to expose the porous silicon layer along the outline of the dies.
+The method also includes etching the semiconductor wafer to release the dies.
+The present disclosure relates to a semiconductor device and a method of manufacturing the same.
+The semiconductor device includes a semiconductor substrate and at least one through silicon via.
+The through silicon via includes a conductive plug, a first insulation layer, and a diffusion barrier layer.
+The conductive plug penetrates through the semiconductor substrate.
+The first insulation layer surrounds the conductive plug.
+The diffusion barrier layer is disposed between the conductive plug and the first insulation layer, and is utilized to prevent out-diffusion of dopant impurities from the conductive plug to the semiconductor substrate.
+There is provided a semiconductor device having a structure that can suppress occurrence of chipping in a device region and that can reduce manufacturing cost of the semiconductor device.
+A semiconductor device includes a substrate and a first amorphous insulating film.
+The substrate has a main surface and an end surface.
+The main surface includes a peripheral region and a device region.
+The first amorphous insulating film is disposed on the peripheral region, and is separated from the device region.
+The first amorphous insulating film extends along the end surface in the form of a stripe.
+The first amorphous insulating film is flush with the end surface.
+The present subject matter discloses a method of lateral slicing of cylindrical silicon ingot to maximize resulting chips yield as compared to the conventional transverse slicing of ingot.
+The resulting rectangular wafers made from lateral slicing of ingot maximizes yield as by the lateral slicing of ingot, overall chips per wafer ratio gets increased as compared to transversal cutting while the said method decreases waste due to conflict between chip and wafer geometry.
+The novel apparatus or system of present method includes JIG having plurality of parallel bars.
+The JIG is provided to covers and holds the ingot during slicing while the parallel bars of JIG between which diamond dust embedded wires gets located and which behaves as a guide for diamond embedded wires during the slicing of ingot.
+Also, this JIG mechanism protects and holds the wires from sliding down and miss the designated location of slicing during the process as the slicing of cylindrical ingot is being done longitudinally.
+Further, the parallel bars of the JIG mechanism are made such a way that the slurry and debris from the slicing automatically gets released.
+A planarization apparatus is provided.
+The planarization apparatus includes a platen, and a grinding wheel.
+The platen is configured to support a wafer.
+The grinding wheel is over the platen and configured to grind the wafer.
+The grinding wheel includes a base ring, and a plurality of grinding teeth mounted on the base ring.
+The plurality of grinding teeth includes a plurality of grinding abrasives, and the plurality of grinding abrasives is ball type.
+In various embodiments, a method for forming a bonded structure is disclosed.
+The method can comprise mounting a first integrated device die to a carrier.
+After mounting, the first integrated device die can be thinned.
+The method can include providing a first layer on an exposed surface of the first integrated device die.
+At least a portion of the first layer can be removed.
+A second integrated device die can be directly bonded to the first integrated device die without an intervening adhesive.
+A cut groove having a predetermined depth is formed with a cutting blade along a projected dicing line set on a workpiece.
+A first preliminary groove is cut in a measurement member and a relational expression with respect to a distance from the preliminary groove bottom and the width of the preliminary groove is determined.
+An amount of incision into the workpiece is set to be equal to or smaller than a predetermined value from a reference position and the thickness of the workpiece.
+A second preliminary groove is cut along the projected dicing line, and an image of the second preliminary cut groove is captured.
+The width of the second preliminary cut groove is measured, and the depth of the second preliminary cut groove is calculated from the width of the second preliminary groove and the relational expression.
+The polishing pad is suitable for polishing or planarizing a wafer of at least one of semiconductor, optical and magnetic substrates.
+The polishing pad includes radial feeder grooves in a polishing layer separating the polishing layer into polishing regions.
+The radial feeder grooves extend at least from a location adjacent the center to a location adjacent the outer edge of the polishing pad.
+Each polishing region including a series of biased grooves that connects a pair of adjacent radial feeder grooves.
+A majority of the biased grooves having either an inward bias toward the center of the polishing pad or an outward bias for directing polishing fluid toward the outer edge of the polishing pad.
+According to one embodiment, a method for manufacturing a semiconductor device is disclosed.
+The method can include forming a second layer covering a first layer on a first region of a semiconductor substrate.
+The semiconductor substrate includes the first region and a second region.
+The first layer covers the second region and a portion of the first region.
+First openings are formed.
+The method can include removing the first layer on the second region using the second layer as a mask.
+The method can include forming an impurity region including an n-type impurity in the second region.
+The method can include removing the second layer, and growing silicon layers inside the first openings and on the second region.
+In addition, the method can include polishing a portion of each of the silicon layers using the first layer as a stopper.
+A semiconductor wafer has a base material with a first thickness and first and second surfaces.
+A wafer scribe mark is disposed on the first surface of the base material.
+A portion of an interior region of the second surface of the base material is removed to a second thickness less than the first thickness, while leaving an edge support ring of the base material of the first thickness and an asymmetric width around the semiconductor wafer.
+The second thickness of the base material is less than 75 micrometers.
+The wafer scribe mark is disposed within the edge support ring.
+The removed portion of the interior region of the second surface of the base material is vertically offset from the wafer scribe mark.
+A width of the edge support ring is wider to encompass the wafer scribe mark and narrower elsewhere around the semiconductor wafer.
+A package structure and a method of manufacturing the same are provided.
+The package structure includes a die, an encapsulant, a RDL structure and a protection layer.
+The die includes a first surface and a second surface opposite to each other.
+The encapsulant is aside the die.
+The RDL structure is electrically connected to the die though a plurality of conductive bumps.
+The RDL structure is underlying the second surface of the die and the encapsulant.
+The protection layer is located over the first surface of the die and the encapsulant.
+The protection layer is used for controlling the warpage of the package structure.
+A method of wafer dicing includes singulating dies from a semiconductor wafer.
+The method further includes depositing a metal layer on back sides of the singulated dies, wherein a portion of the metal layer continues beyond the backs sides of the singulated dies to deposit at least partially on lateral sides of the singulated dies.
+A packaged die includes a semiconductor die and a metal outer layer deposited on the back side of the semiconductor die and on a portion of the lateral side of the semiconductor die nearest the back side.
+The packaged die further includes a substrate mounted to the back side of the semiconductor die a die attach material that bonds the substrate to the metal outer layer deposited on the semiconductor die, wherein the metal outer layer and the die attach material surround the back edge of the semiconductor die.
+A semiconductor wafer provided with a pseudo chip between a product chip and a pattern prohibiting region is prepared.
+With the edge portion of the semiconductor wafer left, the bottom surface of the inner semiconductor substrate is ground, and then, the semiconductor wafer is cut in a ring shape to remove the edge portion.
+Here, in the pseudo chip, a protective film covering the conductive pattern is formed on the top surface of the semiconductor substrate and the end surface of the protective film facing the pattern prohibiting region is positioned on the conductive pattern.
+Further, in plan view, the inner peripheral end of the edge portion is positioned in the pattern prohibiting region, and the pattern prohibiting region between the inner peripheral end of the edge portion and the pseudo chip is cut in a ring shape.
+There is provided a semiconductor device having a structure that can suppress occurrence of chipping in a device region and that can reduce manufacturing cost of the semiconductor device.
+A semiconductor device includes a substrate and a first amorphous insulating film.
+The substrate has a main surface and an end surface.
+The main surface includes a peripheral region and a device region.
+The first amorphous insulating film is disposed on the peripheral region, and is separated from the device region.
+The first amorphous insulating film extends along the end surface in the form of a stripe.
+The first amorphous insulating film is flush with the end surface.
+A semiconductor device includes a substrate and a bump.
+The substrate includes a first surface and a second surface.
+A notch is at the second surface and at a sidewall of the substrate.
+A depth of the notch is smaller than about half the thickness of the substrate.
+The bump is disposed on the first surface of the substrate.
+A semiconductor wafer has a base material with a first thickness and first and second surfaces.
+A wafer scribe mark is disposed on the first surface of the base material.
+A portion of an interior region of the second surface of the base material is removed to a second thickness less than the first thickness, while leaving an edge support ring of the base material of the first thickness and an asymmetric width around the semiconductor wafer.
+The second thickness of the base material is less than 75 micrometers.
+The wafer scribe mark is disposed within the edge support ring.
+The removed portion of the interior region of the second surface of the base material is vertically offset from the wafer scribe mark.
+A width of the edge support ring is wider to encompass the wafer scribe mark and narrower elsewhere around the semiconductor wafer.
+A method for producing a light-emitting diode with a stacked structure, having a first region and a second region and a third region, wherein all three regions have a substrate and an n-doped lower cladding layer and an active layer generating electromagnetic radiation, wherein the active layer includes a quantum well structure, and a p-doped upper cladding layer, and the first region additionally has a tunnel diode formed on the upper cladding layer and composed of a p+ layer and an n+ layer, and an n-doped current distribution layer.
+The current distribution layer and the n-doped contact layer are covered with a conductive trace.
+At least the lower cladding layer, the active layer, the upper cladding layer, the tunnel diode, and the current distribution layer are monolithic in design.
+The second region has a contact hole with a bottom region.
+A liquid processing apparatus includes a processing unit, a first supply route, a first device, a second supply route, a second device, a housing, and an external housing.
+The processing unit processes a substrate by using processing liquid including first and second processing liquids.
+The first supply route is for supplying the first processing liquid to the processing unit.
+The first device is for supplying the first processing liquid to the first supply route.
+The second supply route is for supplying the second processing liquid to the processing unit.
+The second processing liquid has higher temperature than the first processing liquid.
+The second device is for supplying the second processing liquid to the second supply route.
+The housing accommodates the processing unit.
+The external housing accommodates the first and second devices, and is adjacent to the housing.
+The external housing includes a partition wall between the first and second devices.
+A discharge port 31 is arranged inside a chamber 9.
+A circulation flow passage 50 circulates a processing liquid, while maintaining the processing liquid at a predetermined temperature.
+A discharge flow passage 32 is branched from a circulation flow passage 50 to guide the processing liquid to the discharge port 31.
+A return flow passage 33 is connected to the discharge flow passage 32 inside the chamber 9 and allows the processing liquid running through the discharge flowpassage 32 to flow back to the circulation flow passage 50.
+The invention provides a method for polishing or planarizing a wafer of at least one of semiconductor, optical and magnetic substrates.
+The method includes rotating a polishing pad having radial feeder grooves in a polishing layer separating the polishing layer into polishing regions.
+The radial feeder grooves extend at least from a location adjacent the center to a location adjacent the outer edge.
+Each polishing region includes a series of biased grooves connecting a pair of adjacent radial feeder grooves.
+The series of biased grooves separate a land area and have inner walls closer to the center and outer walls closer to the outer edge.
+Pressing and rotating the wafer against the rotating polishing pad for multiple rotations polishes or planarizes the wafer with land areas wet by the overflowing polishing fluid.
+In various embodiments, a method for processing a wafer is provided.
+The method includes forming a layer stack, including a support layer and a useful layer and a sacrificial region between them, said sacrificial region having, vis-à-vis a processing fluid, a lower mechanical and/or chemical resistance than the support layer and than the useful layer.
+The support layer has a depression, which exposes the sacrificial region.
+The method further includes forming at least one channel in the exposed sacrificial region by means of the processing fluid.
+The channel connects the depression to an exterior of the layer stack.
+A method of singulating a wafer includes providing a wafer having a plurality of die formed as part of the wafer and separated from each other by spaces.
+The wafer has first and second opposing major surfaces, a layer of material atop the second major surface, and portions of the layer of material are adapted to remain atop surfaces of the plurality of die after completion of the method of singulating the wafer.
+The method includes placing the wafer onto a carrier substrate and singulating the wafer through the spaces to form singulation lines, wherein singulating comprises leaving at least a portion of the layer of material under the singulation lines.
+The method includes separating the layer of material under the singulation lines by applying pressure to the wafer and applying high frequency vibrations to fatigue the layer of material.
+A wafer processing method for processing a wafer includes an annular groove forming step, a close contact making step, a protective member fixing step, a grinding step, and a peeling step.
+The wafer has a device area and a peripheral marginal area surrounding the device area on the front side, and devices each having asperities are formed in the device area.
+In the annular groove forming step, an annular groove is formed on the front side of the wafer along the inner circumference of the peripheral marginal area.
+In the close contact making step, the device area and the annular groove are covered with a protective film, and the protective film is bring into close contact with the front side of the wafer.
+A circuit substrate processing laminate has, sequentially in the order of a support, a temporary adhesive material layer releasably laminated on the support, and a circuit substrate.
+The circuit substrate has a front surface on which a circuit is formed and a back surface to be processed.
+The temporary adhesive material layer is releasably laminated to the front surface, and is composed of a thermosetting siloxane polymer layer laminated on the support, after cured, has a first peeling force of 10 to 500 mN/25 mm as measured by a 180° peel test.
+The first peeling force is required for peeling the polymer layer from an interface with the support.
+The polymer layer, after cured, has a second peeling force of 50 to 1000 mN/25 mm as measured by the 180° peel test.
+The second peeling force is required for peeling the polymer layer from an interface with the circuit substrate.
+A method for processing a semiconductor substrate includes providing the semiconductor substrate having die formed as part of the semiconductor substrate and separated from each other by singulation lines.
+The semiconductor substrate has first and second opposing major surfaces and contacts disposed over the first major surface.
+A layer of material is disposed over the second major surface, and the singulation lines extend inward from the first major surface into the semiconductor substrate without extending through the layer of material so that the layer of material is under the singulation lines.
+The method includes separating the layer of material proximate to the singulation lines by exposing the layer of material to a reduced temperature below about minus 150 degrees Celsius.
+In some examples, a cryogenic fluid can be to provide the reduced temperature.
+The method provides a reliable and efficient way to bulk separate at least the layer of material.
+Disclosed herein is a dressing board for dressing a cutting blade.
+The dressing board is held on a chuck table in dressing the cutting blade.
+The dressing board includes a bar code formed on the front side of the dressing board for indicating kind information on the dressing board, and a groove code formed on the front side of the dressing board at an edge portion thereof, the groove code being composed of grooves having pattern corresponding to that of the bar code.
+Even when the bar code is cut off by the cutting blade in dressing the cutting blade, the kind information on the dressing board is indicated by the groove code left on the front side of the dressing board.
+In some embodiments, a method of forming an integrated circuit includes providing a semiconductor substrate having an electronic circuit formed on a front side, and having a first material layer located over a second side of the substrate and a second material layer located between the first material layer and the second side.
+At least a portion of the first material layer is removed using a first chemical etching process, thereby exposing the second material layer.
+At least a portion of the second material layer is removed using a second chemical etching process.
+A portion of the substrate is then mechanically removed from the second side.
+A method for varying a removal profile of a silicon wafer during polishing using a polishing apparatus is provided.
+The polishing apparatus includes a polishing pad, a polishing head assembly configured to hold the silicon wafer, a temperature sensor, and a controller.
+The method includes receiving, at the controller, thermal data of a portion of the polishing pad from the temperature sensor and determining, by the controller, the removal profile of the silicon wafer based at least in part on the thermal data.
+The method further includes operating, by the controller, the polishing head assembly to position the silicon wafer in contact with the polishing pad and to selectively vary the removal profile of the silicon wafer based at least in part on the thermal data.
+A control device of a semiconductor manufacturing apparatus includes a processor and a memory connected to the processor and storing instructions executable by the processor.
+The instructions collect a sound of processing a substrate by the semiconductor manufacturing apparatus.
+The instructions calculate a difference of a power spectrum of the processing sound between a first point of time and a second point of time.
+The instructions determine a change point of processing of the substrate based on the difference.
+A method of making a semiconductor device may include providing a carrier comprising a semiconductor die mounting site.
+A build-up interconnect structure may be formed over the carrier.
+A first portion of a conductive interconnect may be formed over the build-up interconnect structure in a periphery of the semiconductor die mounting site.
+An etch stop layer and a second portion of the conductive interconnect may be formed over the first portion of the conductive interconnect.
+A semiconductor die may be mounted to the build-up interconnect at the semiconductor die mounting site.
+The conductive interconnect and the semiconductor die may be encapsulated with a mold compound.
+A first end of the conductive interconnect on the second portion of the conductive interconnect may be exposed.
+The carrier may be removed to expose the build-up interconnect structure.
+The first portion of the conductive interconnect may be etched to expose the etch stop layer.
+A cleaving system and method are described.
+The system can include a holding apparatus to retain a photovoltaic structure at a center section of a cleaving platform.
+The system can further include a contact apparatus to make contact with the photovoltaic structure and separate it into a plurality of strips.
+During operation, the system can activate an actuator to move the contact apparatus against the photovoltaic structure, thereby separating the photovoltaic structure into strips.
+A method of making a semiconductor device includes plating a first conductive material over a first passivation layer, wherein the first conductive material fills an opening in the first passivation layer and electrically connects to an interconnect structure.
+The method further includes planarizing the first conductive material, wherein a top surface of the planarized first conductive material is coplanar with a top surface of the first passivation layer.
+The method further includes depositing a second conductive material over the first passivation layer, wherein the second conductive material is different from the first conductive material, and the second conductive material is electrically connected to the first conductive material in the opening.
+The method further includes patterning the second conductive material to define a redistribution line (RDL).
+A wafer thinning apparatus includes a first metrology tool configured to measure an initial thickness of the wafer.
+The wafer thinning apparatus further includes a controller connected to the first metrology tool, and configured to determine a polishing time based on the initial thickness, a predetermined thickness and a material removal rate.
+The wafer thinning apparatus further includes a polishing tool connected to the controller configured to polish the wafer for a period of time equal to the polishing time.
+The wafer thinning apparatus includes a second metrology tool connected to the controller and the polishing tool, and configured to measure a polished thickness.
+The controller is configured to update the material removal rate based on the polished thickness, the predetermined thickness and the polishing time.
+A method for sawing a semiconductor wafer is provided.
+The method includes sawing a semiconductor wafer to form a first opening.
+In addition, the semiconductor wafer includes a dicing tape and a substrate attached to the dicing tape by a die attach film (DAF), and the first opening is formed in an upper portion of the substrate.
+The method further includes sawing through the substrate and the DAF of the semiconductor wafer from the first opening to form a middle opening under the first opening and a second opening under the middle opening, so that the semiconductor wafer is divided into two dies.
+In addition, a slope of a sidewall of the middle opening is different from slopes of sidewalls of the first opening and the second opening.
+In one general aspect, an integrated passive device (IPD) die includes at least one passive component that is embedded in an insulator material disposed on a front surface of a substrate.
+The IPD die includes a through-substrate via (TSV) extending from the backside of the substrate toward the front surface of the substrate.
+The TSV defines interconnect access to at least one passive component embedded in the insulator material disposed on the front surface of the substrate.
+The substrate has a thickness less than three-quarters of an original thickness of the substrate.
+The present disclosure is directed to a die having a metallized sidewall and methods of manufacturing the same.
+A contiguous metal layer is applied to each edge of a backside of a wafer.
+The wafer is cut at a base of a plurality of channels formed in the backside to create individual die each having a flange that is part of a sidewall of the die and includes a portion that is covered by the metal layer.
+When an individual die is coupled to a die pad, a semiconductive glue bonds the metal layer on the sidewall and a backside of the die to the die pad, which decreases the risk of delamination along the sides of the die.
+The flange also prevents the glue from contacting the active side of the die by acting as a barrier against adhesive creep of the glue up the sidewall of the die.
+An imprint apparatus forms a pattern on an imprint region of a substrate by bringing a mold into contact with an imprint material on the imprint region and curing the imprint material.
+The apparatus includes a controller for controlling an alignment operation of adjusting relative position between the mold and the imprint region in a state that the mold is in contact with the imprint material.
+The alignment operation includes a translation operation of performing relative translation between the imprint region and the mold, and a rotation operation of performing relative rotation between the imprint region and the mold.
+The rotation operation includes a first operation and a second operation, and a relative rotation direction between the imprint region and the mold in the second operation is opposite to a relative rotation direction between the imprint region and the mold in the first operation.
+A polymer hybrid material, a film comprising the polymer hybrid material, the use of the polymer hybrid material, a splitting method using the polymer hybrid material, and a method for producing the polymer hybrid material are provided for increasing the total yield, i.e.
+the efficiency with respect to the raw materials used and other resources such as energy and workforce, of a splitting method.
+The polymer hybrid material for use in a splitting method has at least two solid-body sections produced from a solid-body starting material.
+The polymer hybrid material comprises a polymer matrix and a first filler and a second filler embedded into the polymer matrix.
+The invention provides a method for polishing or planarizing a wafer of at least one of semiconductor, optical and magnetic substrates.
+The method includes rotating a polishing pad, the rotating polishing pad having radial feeder grooves in the polishing layer separating the polishing layer into polishing regions.
+The polishing regions are circular sectors defined by two adjacent radial feeder grooves.
+The radial feeder grooves extend from a location adjacent the center to a location adjacent the outer edge.
+Each polishing region includes a series of biased grooves connecting a pair of adjacent radial feeder grooves.
+Pressing and rotating the wafer against the rotating polishing pad for multiple rotations of the polishing pad adjusts polishing by either increasing or decreasing residence time of the polishing fluid under the wafer.
+A method of forming semiconductor devices includes providing a wafer having a first side and second side, electrically conductive pads at the second side, and an electrically insulative layer at the second side with openings to the pads.
+The first side of the wafer is background to a desired thickness and an electrically conductive layer is deposited thereon.
+Nickel layers are simultaneously electrolessly deposited over the electrically conductive layer and over the pads, and diffusion barrier layers are then simultaneously deposited over the nickel layers.
+Another method of forming semiconductor devices includes depositing backmetal (BM) layers on the electrically conductive layer including a titanium layer, a nickel layer, and/or a silver layer.
+The BM layers are covered with a protective coating and a nickel layer is electrolessly deposited over the pads.
+A diffusion barrier layer is deposited over the nickel layer over the pads, and the protective coating is removed.
+A substrate cleaning apparatus for performing scrub cleaning of a surface of a substrate by rotating both of the substrate and a roll cleaning member while keeping the roll cleaning member in contact with the surface.
+The apparatus includes a roll holder configured to support and rotate a roll cleaning member, a vertical movement mechanism, having a vertically movable unit vertically movable by actuating an actuator having a regulating device, configured to vertically move the roll holder coupled to the vertically movable unit so the roll cleaning member applies a roll load to the substrate W while cleaning the substrate.
+A load cell provided between the vertically movable unit of the vertical movement mechanism and the roll holder is configured to measure the roll load.
+A controller is configured to perform feedback control of the roll load through the regulating device based on a measured value of the load cell.
+One embodiment of the invention relates to a method for fabricating a doped semiconductor zone in a semiconductor body.
+The method includes implanting dopant particles via one side into the semiconductor body or applying a layer containing dopant particles to one side of the semiconductor body.
+The method also includes irradiating the semiconductor body via the one side with further particles at least in the region containing the dopant particles.
+The method finally includes carrying out a thermal treatment by means of which the semiconductor body is heated, at least in the region containing the dopant particles, to a predetermined temperature in order to activate the implanted dopant particles, said temperature being less than 700° C.
+A semiconductor test system has a film frame including a tape portion with one or more openings through the tape portion.
+The opening is disposed in a center region of the tape portion of the film frame.
+The film frame may have conductive traces formed on or through the tape portion.
+A thin semiconductor wafer includes a conductive layer formed over a surface of the semiconductor wafer.
+The semiconductor wafer is mounted over the opening in the tape portion of the film frame.
+A wafer probe chuck includes a lower surface and raised surface.
+The film frame is mounted to the wafer probe chuck with the raised surface extending through the opening in the tape portion to contact the conductive layer of the semiconductor wafer.
+The semiconductor wafer is probe tested through the opening in the tape portion of the film frame.

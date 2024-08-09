@@ -1,0 +1,297 @@
+Methods of forming a differential layer, such as a Contact Etch Stop Layer (CESL), in a semiconductor device are described herein, along with structures formed by the methods.
+In an embodiment, a structure includes an active area on a substrate, a gate structure over the active area, a gate spacer along a sidewall of the gate structure, and a differential etch stop layer.
+The differential etch stop layer has a first portion along a sidewall of the gate spacer and has a second portion over an upper surface of the source/drain region.
+A first thickness of the first portion is in a direction perpendicular to the sidewall of the gate spacer, and a second thickness of the second portion is in a direction perpendicular to the upper surface of the source/drain region.
+The second thickness is greater than the first thickness.
+A technique for patterning a workpiece such as an integrated circuit workpiece is provided.
+In an exemplary embodiment, the method includes receiving a dataset specifying a plurality features to be formed on the workpiece.
+A first patterning of a hard mask of the workpiece is performed based on a first set of features of the plurality of features, and a first spacer material is deposited on a sidewall of the patterned hard mask.
+A second patterning is performed based on a second set of features, and a second spacer material is deposited on a sidewall of the first spacer material.
+A third patterning is performed based on a third set of features.
+A portion of the workpiece is selectively processed using a pattern defined by a remainder of at least one of the patterned hard mask layer, the first spacer material, or the second spacer material.
+A method of removing an oxide layer is provided.
+A metal layer is deposited over an oxide layer formed at a top surface of a germanium substrate.
+A metal oxide layer is deposited over the metal layer.
+The metal oxide layer includes a same metal material as the metal layer.
+The metal layer and the oxide layer are reacted and combined with the metal oxide layer to form a dielectric layer during an anneal process.
+During the anneal process, the oxide layer is reacted with the metal layer and removed.
+In some embodiments of the present disclosure, a method of treating an atom on a substrate includes an operation of ionizing an etchant and the ionized etchant is a positively charged.
+The method includes an operation of attaching the ionized etchant on the atom.
+The method also includes an operation of bonding the atom with the etchant to from a compound.
+The method further includes sputtering the substrate with a charged particle and an operation of applying a bias on the water.
+A rotation mechanism is configured to rotate a wafer including an etched region which is to be etched at least partially.
+An etching mechanism etches the etched region.
+A thickness measurement function is configured to generate time-dependent thickness data by measuring a thickness of the etched region.
+An etching control function is configured to stop the etching mechanism when a representative value of thickness of the etched region reaches a target thickness value.
+A thickness calculation function is configured to calculate the representative value of thickness for each unit period in which the wafer is rotated N times, where N is a natural number, based on measurement values of the time-dependent thickness data in a measurement section being a range measured during the unit period.
+Embodiments of hybrid-bonded semiconductor structures and methods for forming a hybrid-bonded semiconductor structure are disclosed.
+The method can include providing a substrate and forming a base dielectric layer on the substrate.
+The method also includes forming first and second conductive structures in the base dielectric layer and disposing an alternating dielectric layer stack.
+Disposing alternating dielectric layer stack includes disposing a first dielectric layer on the base dielectric layer and the first and second conductive structures and sequentially disposing second, third, and fourth dielectric layers.
+The method further includes planarizing the disposed alternating dielectric layer stack and etching the alternating dielectric layer stack to form first and second openings using preset etching rates for each of the first, second, third, and fourth dielectric layers.
+The etching continues until at least portions of the first and second conductive structures are exposed.
+The method also includes forming conductive material in the first and second openings to form lead wires.
+Conformal hermetic dielectric films suitable as dielectric diffusion barriers over 3D topography.
+In embodiments, the dielectric diffusion barrier includes a dielectric layer, such as a metal oxide, which can be deposited by atomic layer deposition (ALD) techniques with a conformality and density greater than can be achieved in a conventional silicon dioxide-based film deposited by a PECVD process for a thinner contiguous hermetic diffusion barrier.
+In further embodiments, the diffusion barrier is a multi-layered film including a high-k dielectric layer and a low-k or intermediate-k dielectric layer (e.g., a bi-layer) to reduce the dielectric constant of the diffusion barrier.
+In other embodiments a silicate of a high-k dielectric layer (e.g., a metal silicate) is formed to lower the k-value of the diffusion barrier by adjusting the silicon content of the silicate while maintaining high film conformality and density.
+A device includes a substrate, a first dielectric layer over the substrate, a first conductive feature in the first dielectric layer, and an etch stop layer over the first dielectric layer.
+The etch stop layer includes metal-doped aluminum nitride.
+The device further includes a second dielectric layer over the etch stop layer, and a second conductive feature in the second dielectric layer.
+The second conductive feature extends into the etch stop layer and contacts the first conductive feature.
+A package structure includes a first redistribution layer, a molding material, a semiconductor device and an inductor.
+The molding material is located on the first redistribution layer.
+The semiconductor device is molded in the molding material.
+The inductor penetrates through the molding material and electrically connected to the semiconductor device.
+A method of forming a conductive powder includes reducing, by a reduction reaction, a conductive powder precursor gas using a plasma.
+Reducing the conductive powder precursor gas forms the conductive powder.
+The method further includes filtering the conductive powder based on particle size.
+The method further includes dispersing a portion of the conductive powder having a particle size below a threshold value in a fluid.
+An etch back air gap (EBAG) process is provided.
+The EBAG process includes forming an initial structure that includes a dielectric layer disposed on a substrate and a liner disposed to line a trench defined in the dielectric layer.
+The process further includes impregnating a metallic interconnect material with dopant materials, filling a remainder of the trench with the impregnated metallic interconnect materials to form an intermediate structure and drive-out annealing of the intermediate structure.
+The drive-out annealing of the intermediate structure serves to drive the dopant materials out of the impregnated metallic interconnect materials and thereby forms a chemical- and plasma-attack immune material.
+A vertical semiconductor device includes a conductive pattern structure in which insulation patterns and conductive patterns alternately and repeatedly stacked on the substrate.
+The conductive pattern structure includes an edge portion having a stair-stepped shape.
+Each of the conductive patterns includes a pad region corresponding to an upper surface of a stair in the edge portion.
+A pad conductive pattern is disposed to contact a portion of an upper surface of the pad region.
+A mask pattern is disposed on an upper surface of the pad conductive pattern.
+A contact plug penetrates the mask pattern to contact the pad conductive pattern.
+A semiconductor structure and a method for forming the same are provided.
+The semiconductor structure includes a gate structure, a source/drain structure, a first contact plug and a first via plug.
+The gate structure is positioned over a fin structure.
+The source/drain structure is positioned in the fin structure and adjacent to the gate structure.
+The first contact plug is positioned over the source/drain structure.
+The first via plug is positioned over the first contact plug.
+The first via plug includes a first group IV element.
+A semiconductor device includes a buried insulation layer, a semiconductor layer, a gate structure, a source doped region, and a drain doped region.
+The semiconductor layer is disposed on the buried insulation layer.
+The gate structure is disposed on the semiconductor layer.
+The semiconductor layer includes a body region disposed between the gate structure and the buried insulation layer.
+The source doped region and the drain doped region are disposed in the semiconductor layer.
+A first contact structure penetrates the buried insulation layer and contacts the body region.
+A second contact structure penetrates the buried insulation layer and is electrically connected with the source doped region.
+At least a part of the first contact structure overlaps the body region in a thickness direction of the buried insulation layer.
+The body region is electrically connected with the source doped region via the first contact structure and the second contact structure.
+A stacked via structure including a first dielectric layer, a first conductive via, a first redistribution wiring, a second dielectric layer and a second conductive via is provided.
+The first dielectric layer includes a first via opening.
+The first conductive via is in the first via opening.
+A first level height offset is between a top surface of the first conductive via and a top surface of the first dielectric layer.
+The first redistribution wiring covers the top surface of the first conductive via and the top surface of the first dielectric layer.
+The second dielectric layer is disposed on the first dielectric layer and the first redistribution wiring.
+The second dielectric layer includes a second via opening.
+The second conductive via is in the second via opening.
+The second conductive via is electrically connected to the first redistribution wiring through the second via opening of the second dielectric layer.
+A semiconductor device includes a semiconductor substrate, a metal layer, a dielectric layer, and a via.
+The metal layer is disposed above the semiconductor substrate.
+The dielectric layer is disposed between the metal layer and the semiconductor substrate.
+The via is embedded in the dielectric layer and comprises a first portion and a second portion between the first portion and the semiconductor substrate.
+The first portion of the via has a first width.
+The second portion of the via has a second width greater than the first width of the first portion.
+A MOS antifuse with an accelerated dielectric breakdown induced by a void or seam formed in the electrode.
+In some embodiments, the programming voltage at which a MOS antifuse undergoes dielectric breakdown is reduced through intentional damage to at least part of the MOS antifuse dielectric.
+In some embodiments, damage may be introduced during an etchback of an electrode material which has a seam formed during backfilling of the electrode material into an opening having a threshold aspect ratio.
+In further embodiments, a MOS antifuse bit-cell includes a MOS transistor and a MOS antifuse.
+The MOS transistor has a gate electrode that maintains a predetermined voltage threshold swing, while the MOS antifuse has a gate electrode with a void accelerated dielectric breakdown.
+An integrated circuit includes a substrate and an interconnect.
+A substrate zone is delineated by an insulating zone.
+A polysilicon region extends on the insulating zone and includes a strip part.
+An isolating region is situated between the substrate and the interconnect and covers the substrate zone and the polysilicon region.
+A first electrically conductive pad passes through the isolating region and has a first end in electrical contact with both the strip part and the substrate zone.
+A second end of the electrically conductive pad is in electrical contact with the interconnect.
+A second electrically conductive pad also passes through the isolating region to make electrical contact with another region.
+The first and second electrically conductive pads have equal or substantially equal cross sectional sizes, within a tolerance.
+The electrical and electrochemical properties of various semiconductors may limit the usefulness of various semiconductor materials for one or more purposes.
+A completed gallium nitride (GaN) semiconductor layer containing a number of GaN power management integrated circuit (PMIC) dies may be bonded to a completed silicon semiconductor layer containing a number of complementary metal oxide (CMOS) control circuit dies.
+The completed GaN layer and the completed silicon layer may be full size (e.g., 300 mm).
+A layer transfer operation may be used to bond the completed GaN layer to the completed silicon layer.
+The layer transfer operation may be performed on full size wafers.
+After slicing the full size wafers a large number of multi-layer dies, each having a GaN die layer transferred to a silicon die may be produced.
+An integrated circuit device is provided as follows.
+A fin-type active region extends on a substrate in a first horizontal direction.
+A gate line extends on the fin-type active region in a second horizontal direction intersecting the first horizontal direction.
+A source/drain region is disposed in the fin-type active region at one side of the gate line.
+An insulating cover extends parallel to the substrate, with the gate line and the source/drain region arranged between the insulating cover and the substrate.
+A source/drain contact that vertically extends through the insulating cover has a first sidewall covered with the insulating cover and an end connected to the source/drain region.
+A fin isolation insulating unit vertically extends through the insulating cover into the fin-type active region.
+The source/drain region is arranged between the fin isolation insulating unit and the gate line.
+In a method of manufacturing an SRAM device, an insulating layer is formed over a substrate.
+First dummy patterns are formed over the insulating layer.
+Sidewall spacer layers, as second dummy patterns, are formed on sidewalls of the first dummy patterns.
+The first dummy patterns are removed, thereby leaving the second dummy patterns over the insulating layer.
+After removing the first dummy patterns, the second dummy patterns are divided.
+A mask layer is formed over the insulating layer and between the divided second dummy patterns.
+After forming the mask layer, the divided second dummy patterns are removed, thereby forming a hard mask layer having openings that correspond to the patterned second dummy patterns.
+The insulating layer is formed by using the hard mask layer as an etching mask, thereby forming via openings in the insulating layer.
+A conductive material is filled in the via openings, thereby forming contact bars.
+A method of forming a semiconductor structure includes forming a middle-of-line (MOL) oxide layer in the semiconductor structure.
+The MOL oxide layer including multiple gate stacks formed on a substrate.
+A nitride layer is formed over a silicide in the MOL oxide layer.
+At least one self-aligned contact area (CA) element is formed within the nitride layer.
+The MOL oxide layer is selectively recessed on a first side and a second side of the at least one self-aligned CA element leaving remaining portions of the MOL oxide layer on the nitride layer and a nitride.
+A nitride cap of the plurality of gate stacks is selectively recessed.
+An air-gap oxide layer is deposited for introducing one or more air-gaps in the deposited air-gap oxide layer.
+The air gap oxide layer is reduced to the at least one self-aligned CA element and the nitride layer.
+The present disclosure describes a silicide formation process which employs the formation of an amorphous layer in the SiGe S/D region via an application of a substrate bias voltage during a metal deposition process.
+For example, the method includes a substrate with a gate structure disposed thereon and a source/drain region adjacent to the gate structure.
+A dielectric is formed over the gate structure and the source-drain region.
+A contact opening is formed in the dielectric to expose a portion of the gate structure and a portion of the source/drain region.
+An amorphous layer is formed in the exposed portion of the source/drain region with a thickness and a composition which is based on an adjustable bias voltage applied to the substrate.
+Further, an anneal is performed to form a silicide on the source/drain region.
+A vertical transistor structure is provided that includes a bottom source/drain structure that includes a doped semiconductor buffer layer that contains a first dopant species having a first diffusion rate, and an epitaxial doped semiconductor layer that contains a second dopant species that has a second diffusion rate that is less than the first diffusion rate.
+During a junction anneal, the first dopant species readily diffuses from the doped semiconductor buffer layer into a pillar portion of a base semiconductor substrate to provide the bottom source/drain extension and bottom source/drain junction.
+No diffusion overrun is observed.
+During the junction anneal, the second dopant species remains in the epitaxial doped semiconductor layer providing a low resistance contact.
+The second dopant species does not interfere with the bottom source/drain extension and bottom source/drain junction due to limited diffusion of the second dopant species.
+The present disclosure describes various non-planar semiconductor devices, such as fin field-effect transistors (finFETs) to provide an example, having one or more metal rail conductors and various methods for fabricating these non-planar semiconductor devices.
+In some situations, the one or more metal rail conductors can be electrically connected to gate, source, and/or drain regions of these various non-planar semiconductor devices.
+In these situations, the one or more metal rail conductors can be utilized to electrically connect the gate, the source, and/or the drain regions of various non-planar semiconductor devices to other gate, source, and/or drain regions of various non-planar semiconductor devices and/or other semiconductor devices.
+However, in other situations, the one or more metal rail conductors can be isolated from the gate, the source, and/or the drain regions these various non-planar semiconductor devices.
+This isolation prevents electrical connection between the one or more metal rail conductors and the gate, the source, and/or the drain regions these various non-planar semiconductor devices.
+A semiconductor device includes a semiconductor base.
+A dielectric isolation structure is formed in the semiconductor base.
+A source/drain of a FinFET transistor is formed on the semiconductor base.
+A bottom segment of the source/drain is embedded into the semiconductor base.
+The bottom segment of the source/drain has a V-shaped cross-sectional profile.
+The bottom segment of the source/drain is separated from the dielectric isolation structure by portions of the semiconductor base.
+Various embodiments of the present application are directed towards a method for forming a flat via top surface for memory, as well as an integrated circuit (IC) resulting from the method.
+In some embodiments, an etch is performed into a dielectric layer to form an opening.
+A liner layer is formed covering the dielectric layer and lining the opening.
+A lower body layer is formed covering the dielectric layer and filling a remainder of the opening over the liner layer.
+A top surface of the lower body layer and a top surface of the liner layer are recessed to below a top surface of the dielectric layer to partially clear the opening.
+A homogeneous upper body layer is formed covering the dielectric layer and partially filling the opening.
+A planarization is performed into the homogeneous upper body layer until the dielectric layer is reached.
+Methods of dicing semiconductor wafers are described.
+In an example, a method of dicing a wafer having a plurality of integrated circuits thereon involves dicing the wafer into a plurality of singulated dies disposed above a dicing tape.
+The method also involves forming a material layer over and between the plurality of singulated dies above the dicing tape.
+The method also includes expanding the dicing tape, wherein a plurality of particles is collected on the material layer during the expanding.
+Thermal atomic layer etching processes are disclosed.
+In some embodiments, the methods comprise at least one etch cycle in which the substrate is alternately and sequentially exposed to a first vapor phase halide reactant and a second vapor halide reactant.
+In some embodiments, the first reactant may comprise an organic halide compound.
+During the thermal ALE cycle, the substrate is not contacted with a plasma reactant.
+Thermal atomic layer etching processes are disclosed.
+In some embodiments, the methods comprise at least one etch cycle in which the substrate is alternately and sequentially exposed to a first vapor phase halide reactant and a second vapor halide reactant.
+In some embodiments, the first reactant may comprise an organic halide compound.
+During the thermal ALE cycle, the substrate is not contacted with a plasma reactant.
+In some embodiments, a method for forming an integrated circuit is provided.
+The method includes forming a first layer over a semiconductor wafer, the first layer having a first portion and a second portion.
+The first portion is patterned by projecting a first image field over the first portion of the first layer, where the first portion of the first layer corresponds to the first image field.
+The second portion is patterned by projecting a second image field over the second portion of the first layer, where the second portion of the first layer corresponds to the second image field.
+A second layer is formed over the first layer.
+The second layer is patterned by projecting a third image field over the second layer, where the third image field covers a majority of the first portion and a majority of the second portion of the first layer.
+A first copper alloy sputtering target comprising 0.5 to 4.0 wt % of Al and 0.5 wtppm or less of Si and a second copper alloy sputtering target comprising 0.5 to 4.0 wt % of Sn and 0.5 wtppm or less of Mn are disclosed.
+The first and/or the second alloy sputtering target can further comprise one or more elements selected from among Sb, Zr, Ti, Cr, Ag, Au, Cd, In and As in a total amount of 1.0 wtppm or less.
+A semiconductor element wiring formed by the use of the above targets is also disclosed.
+The above copper alloy sputtering target allows the formation of a wiring material for a semiconductor element, in particular, a seed layer being stable, uniform and free from the occurrence of coagulation during electrolytic copper plating and exhibits excellent sputtering film formation characteristics.
+A method for forming a semiconductor device structure is provided.
+The semiconductor device structure includes forming a film over a substrate.
+The semiconductor device structure includes forming a first mask layer over the film.
+The semiconductor device structure includes forming a second mask layer over the first mask layer.
+The second mask layer exposes a first portion of the first mask layer.
+The semiconductor device structure includes performing a plasma etching and deposition process to remove the first portion of the first mask layer and to form a protection layer over a first sidewall of the second mask layer.
+The first mask layer exposes a second portion of the film after the plasma etching and deposition process.
+The semiconductor device structure includes removing the second portion using the first mask layer and the second mask layer as an etching mask.
+A heat treatment container (1) is provided with support members (6) for supporting a disc-shaped SiC substrate (2), which is an object, at a time of an etching treatment of the SiC substrate (2).
+Each of the support members (6) has an inclined surface (6F) for supporting a lower surface end (2E) of the SiC substrate (2), the inclined surface being inclined so as to increasingly approach the centerline of the SiC substrate (2) going downward.
+More specifically, each of the support members (6) is formed in a conical shape with a diameter that increases going downward, and a conical surface which is the peripheral surface of each supporting member forms the inclined surface (6F).
+A vertically-middle section of the inclined surface (6F) contacts the lower surface end (2E) of the SiC substrate (2).
+Embodiments include a method for processing thin substrates.
+Embodiments may include electrostatically bonding a substrate to a first electrostatic carrier (ESC), with a backside of the substrate is facing away from the first ESC.
+Thereafter, the substrate may be thinned to form a thinned substrate.
+The thinned substrate may then be transferred to a second ESC with a front side of the thinned substrate facing away from the second ESC.
+Embodiments may include cleaning the front side surface of the thinned substrate and transferring the thinned substrate to a third ESC.
+In an embodiment, a backside of the thinned substrate is facing away from the third ESC.
+Embodiments may also include processing the backside surface of the thinned substrate, and transferring the thinned substrate to a tape frame.
+Aspects of the disclosure provide a method for manufacturing a semiconductor device.
+A first structure of first stacked insulating layers including a first via over a contact region is formed.
+A second structure is formed by filling at least a top region of the first via with a sacrificial layer.
+A third structure including the second structure and second stacked insulating layers stacked above the second structure is formed.
+The third structure further includes a second via aligned with the first via and extending through the second stacked insulating layers.
+A fourth structure is formed by removing the sacrificial layer to form an extended via including the first via and the second via.
+A plurality of weights associated with the first structure, the second structure, the third structure, and the fourth structure is determined, and a quality of the extended via is determined based on the plurality of weights.
+Performance of a semiconductor device is improved.
+In one embodiment, for example, deposition time is increased from 4.6 sec to 6.9 sec.
+In other words, in one embodiment, thickness of a tantalum nitride film is increased by increasing the deposition time.
+Specifically, in one embodiment, deposition time is increased such that a tantalum nitride film provided on the bottom of a connection hole to be coupled to a wide interconnection has a thickness within a range from 5 to 10 nm.
+Methods disclosed herein include scanning a focus spot formed by a laser beam over either a metal layer or IC structures that include a metal and a non-metal.
+The focus spot is scanned over a scan path that includes scan path segments that partially overlap.
+The focus spot has an irradiance and a dwell time selected to locally melt the metal layer or locally melt the metal of the IC structures without melting the non-metal.
+This results in rapid melting and recrystallization of the metal, which decreases the resistivity of the metal and results in improved performance of the IC chips being fabricated.
+Also disclosed is an example laser melt system for carrying out methods disclosed herein is also disclosed.
+First and second gates and first and second conductive contacts are disposed over a substrate.
+First and second vias are disposed over the first and second conductive contacts, respectively.
+A first gate contact is disposed over the first gate.
+A dielectric structure is disposed over the first gate and over the second gate.
+A first portion of the dielectric structure is disposed between the first and second vias.
+A second portion of the dielectric structure is disposed between the first via and the first gate contact.
+A first interface between the first conductive contact and the first via constitutes a first percentage of an upper surface area of the first conductive contact.
+A second interface between the first gate and the first gate contact constitutes a second percentage of an upper surface area of the first gate.
+The first percentage is greater than the second percentage.
+A method for manufacturing chip package includes the steps below.
+A wafer having an upper surface and a lower surface opposite thereto is provided, in which conductive bumps are disposed on the upper surface.
+The upper surface of the wafer is diced to form trenches.
+A first insulation layer exposing the conductive bumps is formed on the upper surface and in the trenches.
+A surface treatment layer is formed on the conductive bumps, and a top surface of the surface treatment layer is higher than that of the first insulation layer.
+The wafer is thinned from the lower surface toward the upper surface to expose the first insulation layer in the trenches.
+A second insulation layer is formed below the lower surface.
+The first and second insulation layers are diced along a center of each trench to form chip packages.
+A semiconductor device includes a substrate including first and second regions, which are arranged along a first direction.
+A first conductive pattern extends in the first direction in the first region.
+A second conductive pattern extends in the first direction in the first region.
+The second conductive pattern is spaced apart from the first conductive pattern.
+A first spacer extends between the first conductive pattern and the second conductive pattern along a sidewall of the first conductive pattern, a sidewall of the second conductive pattern, and a boundary between the first and second regions.
+A distance between the first conductive pattern and the second region is smaller than a distance between the second conductive pattern and the second region.
+Semiconductor devices, semiconductor packages and methods of forming the same are provided.
+One of the semiconductor device includes a dielectric layer and a connector.
+The dielectric layer includes a dielectric material and an additive, wherein the additive includes a compound represented by Chemical Formula 1.
+The connector is disposed in the dielectric layer.
+A structure of semiconductor device includes a substrate, having a dielectric layer on top.
+At least two metal elements are formed in the dielectric layer, wherein an air gap is between adjacent two of the metal elements.
+A cap layer is disposed over the substrate, wherein a portion of the cap layer above the adjacent two of the metal elements has a hydrophilic surface.
+An inter-layer dielectric layer is disposed on the cap layer.
+The inter-layer dielectric layer seals the air gap between the two metal elements.
+The air gap remains and extends higher than a top surface of the metal elements.
+A redistribution structure includes a first dielectric layer, a pad pattern, and a second dielectric layer.
+The pad pattern is disposed on the first dielectric layer and includes a pad portion and a peripheral portion.
+The pad portion is embedded in the first dielectric layer, wherein a lower surface of the pad portion is substantially coplanar with a lower surface of the first dielectric layer.
+The peripheral portion surrounds the pad portion.
+The second dielectric layer is disposed on the pad pattern and includes a plurality of extending portions extending through the peripheral portion.
+The present disclosure, in some embodiments, relates to an integrated chip structure.
+The integrated chip structure includes a bump structure disposed on a first substrate and a molding compound in physical contact with the bump structure.
+The bump structure protrudes from the molding compound.
+A conductive region is on a second substrate and contacts the bump structure.
+A no-flow underfill (NUF) material is vertically between the molding compound and the second substrate and laterally surrounds the bump structure.
+The NUF material is separated from the molding compound.
+An integrated circuit device is provided as follows.
+A fin-type active region extends on a substrate in a first horizontal direction.
+A gate line extends on the fin-type active region in a second horizontal direction intersecting the first horizontal direction.
+A source/drain region is disposed in the fin-type active region at one side of the gate line.
+An insulating cover extends parallel to the substrate, with the gate line and the source/drain region arranged between the insulating cover and the substrate.
+A source/drain contact that vertically extends through the insulating cover has a first sidewall covered with the insulating cover and an end connected to the source/drain region.
+A fin isolation insulating unit vertically extends through the insulating cover into the fin-type active region.
+The source/drain region is arranged between the fin isolation insulating unit and the gate line.
+A method of forming a power rail to semiconductor devices comprising removing a portion of the gate structure forming a gate cut trench separating a first active region of fin structures from a second active region of fin structures.
+A conformal etch stop layer is formed in the gate cut trench.
+A fill material is formed on the conformal etch stop layer filling at least a portion of the gate cut trench.
+The fill material has a composition that is etched selectively to the conformal etch stop layer.
+A power rail is formed in the gate cut trench.
+The conformal etch stop layer obstructs lateral etching during forming the power rail to substantially eliminate power rail to gate structure shorting.
+An integrated circuit and method includes self-aligned contacts.
+A gapfill dielectric layer fills spaces between sidewalls of adjacent MOS gates.
+The gapfill dielectric layer is planarized down to tops of gate structures.
+A contact pattern is formed that exposes an area for multiple self-aligned contacts.
+The area overlaps adjacent instances of the gate structures.
+The gapfill dielectric layer is removed from the area.
+A contact metal layer is formed in the areas where the gapfill dielectric material has been removed.
+The contact metal abuts the sidewalls along the height of the sidewalls.
+The contact metal is planarized down to the tops of the gate structures, forming the self-aligned contacts.
+A semiconductor memory device includes a substrate, a plurality of first electrode layers, a semiconductor layer, a plurality of second electrode layers, and a conductor.
+The plurality of first electrode layers are arranged to be separated from each other in a first direction above the substrate.
+The semiconductor layer extends through the plurality of first electrode layers in the first direction.
+The plurality of second electrode layers are arranged to be separated from each other in the first direction, arranged to be separated from the plurality of first electrode layers in a second direction crossing the first direction, and arranged at substantially the same levels as levels of the plurality of first electrode layers in the first direction.
+The conductor electrically connects the plurality of second electrode layers to each other.
+The plurality of second electrode layers are connected in parallel by the conductor.
+A semiconductor device and a method of manufacturing a semiconductor device may be provided.
+The semiconductor device may include first and second vertical conductive patterns isolated from each other by a first slit.
+The semiconductor device may include at least one first half conductive pattern extending toward a first region disposed at one side of the first slit from the first vertical conductive pattern.
+The semiconductor device may include at least one second half conductive pattern extending toward a second region disposed at the other side of the first slit from the second vertical conductive pattern.

@@ -1,0 +1,292 @@
+A method of forming a semiconductor structure is provided.
+Trenches are formed in a first dielectric layer having a first height on a substrate.
+First III-V semiconductor patterns including aluminum are formed in the trenches to a second height lower than the first height.
+Second III-V semiconductor patterns are formed on the first III-V semiconductor patterns to a third height not higher than the first height to form fins including the first and second III-V semiconductor patterns.
+The first dielectric layer is completely removed to expose the fins.
+Selective oxidation is performed to oxidize the first III-V semiconductor patterns to form oxidized first III-V semiconductor patterns.
+Fin patterning is performed.
+A second dielectric layer is formed to cover the fins.
+The second dielectric layer is recessed to a level not higher than top surfaces of the oxidized first III-V semiconductor patterns.
+The semiconductor structure is also provided.
+A method for etching features into a silicon containing layer comprising performing a plurality of cycles in a plasma processing chamber is provided.
+Each cycle comprises a deposition phase and an activation phase.
+The deposition phase comprises flowing a precursor into the plasma processing chamber to form a self-limiting monolayer, wherein the precursor comprises a head group component and a tail group component, wherein the tail group component comprises fluorine and carbon, and stopping the flow of the precursor into the plasma processing chamber.
+The activation phase comprises flowing an activation gas comprising an ion bombardment gas, into the plasma processing chamber, creating a plasma from the activation gas, providing an activation bias to cause ion bombardment of the self-limiting monolayer, wherein the ion bombardment activates the fluorine from the tail group component to etch the silicon containing layer, and stopping the flow of the activation gas.
+A method of forming a structure for etch masking that includes forming first dielectric spacers on sidewalls of a plurality of mandrel structures and forming non-mandrel structures in space between adjacent first dielectric spacers.
+Second dielectric spacers are formed on sidewalls of an etch mask having a window that exposes a connecting portion of a centralized first dielectric spacer.
+The connecting portion of the centralized first dielectric spacer is removed.
+The mandrel structures and non-mandrel structures are removed selectively to the first dielectric spacers to provide an etch mask.
+The connecting portion removed from the centralized first dielectric spacer provides an opening connecting a first trench corresponding to the mandrel structures and a second trench corresponding to the non-mandrel structures.
+Structures and formation methods of a semiconductor device structure are provided.
+The semiconductor device structure includes a fin structure over a semiconductor substrate.
+The semiconductor device structure also includes a gate stack covering a portion of the fin structure.
+The semiconductor device structure further includes a spacer element over a sidewall of the gate stack.
+The spacer element includes a first layer and a second layer over the first layer.
+The dielectric constant of the first layer is greater than the dielectric constant of the second layer.
+A gate dielectric layer of the gate stack adjoins the first layer and the second layer.
+In one embodiment, a surface treatment apparatus for a semiconductor substrate includes a holding unit, a first supply unit, a second supply unit, a third supply unit, a drying treatment unit, and a removal unit.
+The holding unit holds a semiconductor substrate with a surface having a convex pattern formed thereon.
+The first supply unit supplies a chemical solution to the surface of the semiconductor substrate, to perform cleaning and oxidation.
+The second supply unit supplies pure water to the surface of the semiconductor substrate, to rinse the semiconductor substrate.
+The third supply unit supplies a water repelling agent to the surface of the semiconductor substrate, to form a water repellent protective film on the surface of the convex pattern.
+The drying treatment unit dries the semiconductor substrate.
+The removal unit removes the water repellent protective film while making the convex pattern remain.
+Methods of selectively depositing high-K gate dielectric on a semiconductor structure are disclosed.
+The method includes providing a semiconductor structure disposed above a semiconductor substrate.
+The semiconductor structure is disposed beside an isolation sidewall.
+A sacrificial blocking layer is then selectively deposited on the isolation sidewall and not on the semiconductor structure.
+Thereafter, a high-K gate dielectric is deposited on the semiconductor structure, but not on the sacrificial blocking layer.
+Properties of the sacrificial blocking layer prevent deposition of oxide material on its surface.
+A thermal treatment is then performed to remove the sacrificial blocking layer, thereby forming a high-K gate dielectric only on the semiconductor structure.
+An exemplary method includes forming a hard mask layer over an integrated circuit layer and implanting ions into a first portion of the hard mask layer without implanting ions into a second portion of the hard mask layer.
+An etching characteristic of the first portion is different than an etching characteristic of the second portion.
+After the implanting, the method includes annealing the hard mask layer.
+After the annealing, the method includes selectively etching the second portion of the hard mask layer, thereby forming an etching mask from the first portion of the hard mask layer.
+The method can further include using the etching mask to pattern the integrated circuit layer.
+In a state where nothing is held on a quartz susceptor provided in a chamber, a lower chamber window made of quartz is heated to and maintained at a stable temperature by light irradiation from a continuous lighting lamp.
+Then, immediately before a semiconductor wafer to be treated is transferred into the chamber, an object to be heated that absorbs infrared light is held on the susceptor, and the object to be heated is heated by light irradiation from the continuous lighting lamp.
+The susceptor is preliminary heated to a stable temperature by the heated object to be heated.
+The lower chamber window and the susceptor are each heated to the stable temperature when a semiconductor wafer to be treated first is transferred into the chamber, so that temperature histories of all semiconductor wafers constituting one lot can be made uniform.
+This enables dummy running, before a semiconductor wafer to be treated first is transferred, to be eliminated.
+Exemplary methods of patterning a device layer are described, including operations of patterning a protector layer and forming a first opening in a first patterning layer to expose a first portion of the protector layer and a first portion of the hard mask layer, which are then are exposed to a first etch to form a first opening in the first portion of the hard mask layer.
+A second opening is formed in a second patterning layer to expose a second portion of the protector layer and a second portion of the hard mask layer.
+The second portion of the protector layer and the second portion of the hard mask layer are exposed to an etch to form a second opening in the second portion of the hard mask layer.
+Exposed portions of the device layer are then etched through the first opening and the second opening.
+Methods and apparatuses for performing cycles of aspect ratio dependent deposition and aspect ratio independent etching on lithographically patterned substrates are described herein.
+Methods are suitable for reducing variation of feature depths and/or aspect ratios between features formed and partially formed by lithography, some partially formed features being partially formed due to stochastic effects.
+Methods and apparatuses are suitable for processing a substrate having a photoresist after extreme ultraviolet lithography.
+Some methods involve cycles of deposition by plasma enhanced chemical vapor deposition and directional etching by atomic layer etching.
+A novel, low cost method for manufacturing flexible crystalline ultra-thin Si solar cells using previously fabricated inflexible crystalline Si solar cells.
+A stack of metal layers is coated onto a front side of previously completed inflexible crystalline Si solar cells.
+The stack serves as a bonding layer as well as an electrically conducting layer between the inflexible solar cell and the carrier substrate.
+The front side of the coated inflexible Si solar cell is bonded onto the carrier substrate.
+Back side layers from the starting inflexible solar cell are removed, as is much of the base layer, so that only a thin base layer remains, with the thin base layer and emitter region having a total thickness of between 1 μm and 30 μm and the final cell having a total thickness of about 10 to about 125 μm.
+Multilayered stacks having layers of silicon interleaved with layers of a dielectric, such as silicon dioxide, are plasma etched with non-corrosive process gas chemistries.
+Etching plasmas of fluorine source gases, such as SF6 and/or NF3 typically only suitable for dielectric layers, are energized by pulsed RF to achieve high aspect ratio etching of silicon/silicon dioxide bi-layers stacks without the addition of corrosive gases, such as HBr or Cl2.
+In embodiments, a mask open etch and the multi-layered stack etch are performed in a same plasma processing chamber enabling a single chamber, single recipe solution for patterning such multi-layered stacks.
+In embodiments, 3D NAND memory cells are fabricated with memory plug and/or word line separation etches employing a fluorine-based, pulsed-RF plasma etch.
+A method of planarizing a semiconductor device includes forming a first region and a second region on a semiconductor substrate.
+The first region has a larger thickness than a thickness of the second region.
+An interlayer dielectric layer is conformally deposited on the first region and the second region.
+A photoresist is formed on the second region.
+A bottom anti-reflective coating layer is formed on the photoresist, first region and second region.
+A planarization process is performed to the semiconductor substrate.
+The planarization process to the first region and the second region includes removing portions of the interlayer dielectric layer, the photoresist and the BARC layer.
+Processes for fabricating multi- and monolayer silicene on catalyst metal surfaces by means of plasma-enhanced chemical vapor deposition (PECVD).
+Silicene is grown by means of PECVD from a starting mixture of H2 and SiH4 having an H2:SiH4 ratio of 100 to 400 on an Ag(111) substrate having a substrate temperature between 20° C. and 290° C., with the deposition being performed for about 10-25 minutes at an RF power between 10 W and 500 W and under a chamber pressure between about 100 mTorr and 1300 mTorr.
+In most cases, the substrate will be in the form of an Ag(111) film sputtered on a fused silica substrate.
+A multi-layer silicene film can be formed by extending the deposition time past 25 minutes.
+In a metal oxide film formation method of the present invention, the following steps are performed.
+In a solution vessel, a raw-material solution including aluminum as a metallic element is turned into a mist so that a raw-material solution mist is obtained.
+In a solution vessel provided independently of the solution vessel, a reaction aiding solution including a reaction aiding agent for formation of aluminum oxide is turned into a mist so that an aiding-agent mist is obtained.
+Then, the raw-material solution mist and the aiding-agent mist are fed to a nozzle provided in a reactor vessel via paths.
+Thereafter, the raw-material solution mist and the aiding-agent mist are mixed in the nozzle so that a mixed mist is obtained.
+Then, the mixed mist is fed onto a back surface of a heated P-type silicon substrate.
+An integrated circuit structure comprises a semiconductor fin protruding through a trench isolation region above a substrate.
+A gate structure is over the semiconductor fin.
+A plurality of vertically stacked nanowires is through the gate structure, wherein the plurality of vertically stacked nanowires includes a top nanowire adjacent to a top of the gate structure, and a bottom nanowire adjacent to a top of the semiconductor fin.
+A dielectric material covers only a portion of the plurality of vertically stacked nanowires outside the gate structure, such that one or more one of the plurality of vertically stacked nanowires starting with the top nanowire is exposed from the dielectric material.
+Source and drain regions are on opposite sides of the gate structure connected to the exposed ones of the plurality of vertically stacked nanowires.
+A manufacturing method of a semiconductor structure includes at least the following steps.
+A patterned mask layer with a first opening is formed on a dielectric layer overlying a semiconductor substrate.
+A portion of the dielectric layer accessibly exposed by the first opening of the patterned mask layer is removed to form a second opening.
+A first protective film is formed on inner sidewalls of the dielectric layer and the patterned mask layer, where the second opening and the first protective film are formed at the same step.
+A second protective film is formed on the first protective film to form a protective structure covering the inner sidewalls.
+A portion of the semiconductor substrate accessibly exposed by the second opening is removed to form a via hole including an undercut underlying the protective structure.
+The via hole is trimmed and a through substrate via is formed in the via hole.
+A silicon carbide substrate has a trench extending from a main surface of the silicon carbide substrate into the silicon carbide substrate.
+The trench has a trench width at a trench bottom.
+A shielding region is formed in the silicon carbide substrate.
+The shielding region extends along the trench bottom.
+In at least one doping plane extending approximately parallel to the trench bottom, a dopant concentration in the shielding region over a lateral first width deviates by not more than 10% from a maximum value of the dopant concentration.
+The first width is less than the trench width and is at least 30% of the trench width.
+A method of forming a structure for etch masking that includes forming first dielectric spacers on sidewalls of a plurality of mandrel structures and forming non-mandrel structures in space between adjacent first dielectric spacers.
+Second dielectric spacers are formed on sidewalls of an etch mask having a window that exposes a connecting portion of a centralized first dielectric spacer.
+The connecting portion of the centralized first dielectric spacer is removed.
+The mandrel structures and non-mandrel structures are removed selectively to the first dielectric spacers to provide an etch mask.
+The connecting portion removed from the centralized first dielectric spacer provides an opening connecting a first trench corresponding to the mandrel structures and a second trench corresponding to the non-mandrel structures.
+A method for forming a semiconductor structure includes forming a pattern having first and second line features extending in a first direction on a substrate.
+After depositing a photoresist layer on the substrate to cover the pattern, the photoresist layer is patterned to form a cut pattern including first and second cut features exposing portions of the respective first and second line features.
+In a top view, at least one of the first and second cut features is asymmetrically arranged with respect to a central axis of a corresponding first or second line feature.
+At least one angled ion implantation is performed to enlarge the first and second cut features in at least one direction perpendicular to the first direction.
+The portions of the first and second line features exposed by the respective first and second cut features are then removed.
+Improved bonding surfaces for microelectronics are provided.
+An example method of protecting a dielectric surface for direct bonding during a microelectronics fabrication process includes overfilling cavities and trenches in the dielectric surface with a temporary filler that has an approximately equal chemical and mechanical resistance to a chemical-mechanical planarization (CMP) process as the dielectric bonding surface.
+The CMP process is applied to the temporary filler to flatten the temporary filler down to the dielectric bonding surface.
+The temporary filler is then removed with an etchant that is selective to the temporary filler, but nonreactive toward the dielectric surface and toward inner surfaces of the cavities and trenches in the dielectric bonding surface.
+Edges of the cavities remain sharp, which minimizes oxide artifacts, strengthens the direct bond, and reduces the bonding seam.
+A method for fabricating a planarized planarization layer for an integrated circuit device is described.
+A barrier layer is deposited over a planarization layer.
+Next, a liner layer is deposited on the barrier layer.
+An overburden layer is deposited on the liner layer.
+A first chemical mechanical polishing (CMP) process is performed on the overburden layer.
+A surface conversion process is performed on uncovered portions of a top surface of the planarization layer which are not protected by the polished overburden layer.
+A first wet etch is performed of the planarization layer.
+In embodiments, the first wet etch is selective to metal overburden layer as compared to the planarization layer.
+A second wet etch is performed removing the liner layer, the diffusion barrier layer and the metal overburden layer.
+In embodiments, the second wet etch is selective to the planarization layer as compared to the overburden layer.
+Photoresist layers of semiconductor components including electric fields.
+The photoresist layer may include a body including a first portion disposed directly over a conductive layer of the semiconductor component.
+The body may also include a second portion integrally formed with and positioned over the first portion.
+The second portion may include a surface formed opposite the first portion.
+Additionally, the second portion may include a plurality of charged-particles implanted therein, where the plurality of charged-particles generating an electric field may extend through the first portion and the second portion of the body.
+A field effect transistor includes a substrate comprising a fin structure.
+The field effect transistor further includes an isolation structure in the substrate.
+The field effect transistor further includes a source/drain (S/D) recess cavity below a top surface of the substrate.
+The S/D recess cavity is between the fin structure and the isolation structure.
+The field effect transistor further includes a strained structure in the S/D recess cavity.
+The strain structure includes a lower portion.
+The lower portion includes a first strained layer, wherein the first strained layer is in direct contact with the isolation structure, and a dielectric layer, wherein the dielectric layer is in direct contact with the substrate, and the first strained layer is in direct contact with the dielectric layer.
+The strained structure further includes an upper portion comprising a second strained layer overlying the first strained layer.
+Exemplary methods of patterning a device layer are described, including operations of patterning a protector layer and forming a first opening in a first patterning layer to expose a first portion of the protector layer and a first portion of the hard mask layer, which are then are exposed to a first etch to form a first opening in the first portion of the hard mask layer.
+A second opening is formed in a second patterning layer to expose a second portion of the protector layer and a second portion of the hard mask layer.
+The second portion of the protector layer and the second portion of the hard mask layer are exposed to an etch to form a second opening in the second portion of the hard mask layer.
+Exposed portions of the device layer are then etched through the first opening and the second opening.
+Methods of forming connectors and packaged semiconductor devices are disclosed.
+In some embodiments, a connector is formed by forming a first photoresist layer over an interconnect structure, and patterning the first photoresist layer.
+The patterned first photoresist layer is used to form a first opening in an interconnect structure.
+The patterned first photoresist is removed, and a second photoresist layer is formed over the interconnect structure and in the first opening.
+The second photoresist layer is patterned to form a second opening over the interconnect structure in the first opening.
+The second opening is narrower than the first opening.
+At least one metal layer is plated through the patterned second photoresist layer to form the connector.
+Exemplary deposition methods may include forming a plasma of an oxygen-containing precursor within a processing region of a semiconductor processing chamber.
+The processing region may house a semiconductor substrate on a substrate support.
+The methods may include, while maintaining the plasma of the oxygen-containing precursor, flowing a silicon-containing precursor into the processing region of the semiconductor processing chamber at a first flow rate.
+The methods may include ramping the first flow rate of the silicon-containing precursor over a period of time to a second flow rate greater than the first flow rate.
+The methods may include depositing a silicon-containing material on the semiconductor substrate.
+A hot plate of a resist removing apparatus is disposed in a processing space and heated to a predetermined temperature.
+A substrate has on an upper surface thereof, a pattern of a resist having a surface on which an altered layer is formed.
+A moving mechanism moves a plurality of lift pins relative to a hot plate.
+An upper surface of the substrate is supplied with ozone gas.
+A control part disposes the substrate at a first processing position with a clearance from the hot plate and removes the altered layer by using the ozone gas, and subsequently controls the moving mechanism to dispose the substrate at a second processing position with a clearance smaller than that between the first processing position and the hot plate and removes the resist by using the ozone gas.
+It is thereby possible to efficiently remove the resist from the substrate while preventing popping.
+A film deposition method is provided.
+In the method, chlorine gas is activated in a plasma generator, and an adsorption inhibitor group is formed by adsorbing the activated chlorine gas on a surface of a substrate in a processing chamber.
+A source gas containing chlorine and one of silicon and a metal is adsorbed on a region without the adsorption inhibitor group of the surface of the substrate, and a nitride film is deposited by supplying a nitriding gas to the surface of the substrate and causing the nitriding gas to react with the source gas.
+The substrate on which the nitride film is deposited is carried out of the processing chamber, and an inside of the plasma generator is purged with activated oxygen gas.
+Methods of depositing a film selectively onto a first substrate surface relative to a second substrate surface are described.
+The methods include exposing a substrate to a blocking molecule to selectively deposit a blocking layer on the first surface.
+The blocking layer is exposed to a polymer initiator to form a networked blocking layer.
+A layer is selectively formed on the second surface.
+The blocking layer inhibits deposition on the first surface.
+The networked layer may then optionally be removed.
+An electric discharge generator and power supply device of electric discharge generator includes a radical gas generation apparatus, a process chamber apparatus, and an n-phase inverter power supply device.
+The radical gas generation apparatus is located adjacent to the process chamber apparatus.
+The radical gas generation apparatus includes a plurality of (n) discharge cells.
+The n-phase inverter power supply device includes a power supply circuit configuration offering a means to control output of n-phase alternating current voltages and variably controls, according to positions of the plurality of discharge cells, the alternating current voltages of different phases.
+A layer stack is formed over a conductive material portion located on a substrate.
+The layer stack contains a first silicon oxide layer, a silicon nitride layer formed by chemical vapor deposition, and a second silicon oxide layer.
+A patterned etch mask layer including an opening is formed over the layer stack.
+A via cavity extending through the layer stack and down to the conductive material portion is formed by isotropically etching portions of the layer stack underlying the opening in the patterned etch mask layer using an isotropic etch process.
+A buffered oxide etch process may be used, in which the etch rate of the silicon nitride layer is less than, but is significant enough, compared to the etch rate of the first silicon oxide layer to provide tapered straight sidewalls on the silicon nitride layer.
+An optical device including a patterned layer stack can be provided.
+A method for forming a semiconductor device structure is provided.
+The method includes providing a substrate and forming a bottom layer, a middle layer, and a top layer on the substrate.
+The method also includes patterning the top layer to form a patterned top layer and patterning the middle layer by a patterning process including a plasma process to form a patterned middle layer.
+The plasma process is performed by using a mixed gas including hydrogen gas (H2).
+The method further includes controlling a flow rate of the hydrogen gas (H2) to improve an etching selectivity of the middle layer to the top layer, and the patterned middle layer includes a first portion and a second portion parallel to the first portion, and a pitch is between the first portion and the second portion.
+A gas ejector of a gas supply apparatus includes a nozzle portion.
+The opening of a first-stage restricting cylinder constituting the nozzle portion has a circular cross-sectional shape with a diameter r1.
+A second-stage restricting cylinder is continuously formed with the first-stage restricting cylinder along a Z direction.
+The opening of the second-stage restricting cylinder has a circular cross-sectional shape with a diameter r2, and supplies a source gas supplied from the first-stage restricting cylinder to a low-vacuum processing chamber below.
+At this time, the diameter r2 is set to satisfy “r2>r1”.
+A method may include forming in a substrate a first array of a first material of first linear structures, interspersed with a second array of a second material, of second linear structures, the first and second linear structures elongated along a first axis.
+The method may include generating a chop pattern in the first layer, comprising a third linear array, interspersed with a fourth linear array.
+The third and fourth linear arrays may be elongated along a second axis, forming a non-zero angle of incidence with respect to the first axis.
+The third linear array may include alternating portions of the first and second material, while the fourth linear array comprises an array of cavities, arranged within the patterning layer.
+The method may include elongating a first set of cavities along the first axis, to form a first set of elongated cavities bounded by the first material.
+A field effect transistor includes a substrate comprising a fin structure.
+The field effect transistor further includes an isolation structure in the substrate.
+The field effect transistor further includes a source/drain (S/D) recess cavity below a top surface of the substrate.
+The S/D recess cavity is between the fin structure and the isolation structure.
+The field effect transistor further includes a strained structure in the S/D recess cavity.
+The strain structure includes a lower portion.
+The lower portion includes a first strained layer, wherein the first strained layer is in direct contact with the isolation structure, and a dielectric layer, wherein the dielectric layer is in direct contact with the substrate, and the first strained layer is in direct contact with the dielectric layer.
+The strained structure further includes an upper portion comprising a second strained layer overlying the first strained layer.
+According to one embodiment, a semiconductor device includes first to third electrodes, first and second semiconductor layers, a nitride layer, and an oxide layer.
+A direction from the second electrode toward the first electrode is aligned with a first direction.
+A position in the first direction of the third electrode is between the first electrode and the second electrode in the first direction.
+The first semiconductor layer includes first to fifth partial regions.
+The first partial region is between the fourth and third partial regions in the first direction.
+The second partial region is between the third and fifth partial regions in the first direction.
+The nitride layer includes first and second nitride regions.
+The second semiconductor layer includes first and second semiconductor regions.
+The oxide layer includes silicon and oxygen.
+The oxide layer includes first to third oxide regions.
+In a method of manufacturing a semiconductor device, a fin structure, in which first semiconductor layers and second semiconductor layers are alternately stacked, is formed.
+A sacrificial gate structure is formed over the fin structure.
+A source/drain region of the fin structure, which is not covered by the sacrificial gate structure, is etched, thereby forming a source/drain space.
+The first semiconductor layers are laterally etched through the source/drain space.
+A first insulating layer is formed, in the source/drain space, at least on etched first semiconductor layers.
+A source/drain epitaxial layer is formed in the source/drain space, thereby forming air gaps between the source/drain epitaxial layer and the first semiconductor layers.
+A gas jetting apparatus capable of uniformly jetting, even onto a treatment-target object having a high-aspect-ratio groove, a gas into the groove.
+The gas jetting apparatus includes a gas jetting cell unit for jetting a gas toward a treatment-target object.
+The gas jetting cell unit includes a first cone-shaped member and a second cone-shaped member.
+A gap is formed between a side surface of a first cone shape and a side surface of the second cone-shaped member.
+Apex sides of the cone-shaped members face the treatment-target object.
+Provided is a landing pad structure including a substrate, a plurality of landing pads, a guard ring, and an edge pattern.
+The substrate includes a cell region, a periphery region, and a guard ring region located between the cell region and the periphery region.
+The landing pads are arranged on the substrate in the cell region in a hexagonal close packing (HCP) configuration.
+The guard ring is disposed on the substrate in the guard ring region in a strip form.
+The edge pattern is disposed on the substrate in the cell region and close to the guard ring region.
+A method of manufacturing the landing pad structure is also provided.
+A silicon carbide substrate has a trench extending from a main surface of the silicon carbide substrate into the silicon carbide substrate.
+The trench has a trench width at a trench bottom.
+A shielding region is formed in the silicon carbide substrate.
+The shielding region extends along the trench bottom.
+In at least one doping plane extending approximately parallel to the trench bottom, a dopant concentration in the shielding region over a lateral first width deviates by not more than 10% from a maximum value of the dopant concentration.
+The first width is less than the trench width and is at least 30% of the trench width.
+A wafer holding unit includes a disk-shaped ceramic substrate having a wafer mounting surface on an upper surface of the substrate, an RF electrode, for example, embedded within the substrate, a metal terminal inserted from a lower surface of the substrate, and a connecting terminal which electrically connects the RF electrode and the metal terminal with each other.
+The connecting terminal is constituted by a ceramic member and a metal layer.
+The ceramic member is made of the same material as the substrate and preferably has a truncated conical shape.
+The metal layer covers a surface of the ceramic member.
+An upper end of the metal layer is connected to the RF electrode, while a lower end of the metal layer is connected to the metal terminal with a metal member interposed therebetween.
+A semiconductor device includes a substrate, at least one active semiconductor fin, at least one first dummy semiconductor fin, and at least one second dummy semiconductor fin.
+The active semiconductor fin is disposed on the substrate.
+The first dummy semiconductor fin is disposed on the substrate.
+The second dummy semiconductor fin is disposed on the substrate and between the active semiconductor fin and the first dummy semiconductor fin.
+A top surface of the first dummy semiconductor fin and a top surface of the second dummy semiconductor fin are curved in different directions.
+A method of forming a structure for etch masking that includes forming first dielectric spacers on sidewalls of a plurality of mandrel structures and forming non-mandrel structures in space between adjacent first dielectric spacers.
+Second dielectric spacers are formed on sidewalls of an etch mask having a window that exposes a connecting portion of a centralized first dielectric spacer.
+The connecting portion of the centralized first dielectric spacer is removed.
+The mandrel structures and non-mandrel structures are removed selectively to the first dielectric spacers to provide an etch mask.
+The connecting portion removed from the centralized first dielectric spacer provides an opening connecting a first trench corresponding to the mandrel structures and a second trench corresponding to the non-mandrel structures.
+According to one embodiment, a semiconductor device includes first to third electrodes, first and second semiconductor layers, a nitride layer, and an oxide layer.
+A direction from the second electrode toward the first electrode is aligned with a first direction.
+A position in the first direction of the third electrode is between the first electrode and the second electrode in the first direction.
+The first semiconductor layer includes first to fifth partial regions.
+The first partial region is between the fourth and third partial regions in the first direction.
+The second partial region is between the third and fifth partial regions in the first direction.
+The nitride layer includes first and second nitride regions.
+The second semiconductor layer includes first and second semiconductor regions.
+The oxide layer includes silicon and oxygen.
+The oxide layer includes first to third oxide regions.
+Techniques are disclosed for methods and apparatus for performing plasma enhanced atomic layer deposition (PEALD) as well as plasma enhanced chemical vapor deposition (PECVD) in a single hybrid design and without requiring any mechanical intervention.
+Depending on the configuration/activation of an electrically controlled RF switch, in the PEALD mode, plasma is created by an ICP source above a grounded metal plate in the chamber.
+Alternatively, in the PECVD mode, the metal plate itself is RF-powered and produces the plasma around the substrate and below an underlying ceramic plate.
+Electrical isolation of the metal plate is preferably provided by a ceramic ring spacer.
+A stack of PEALD/PECVD films may thus be obtained by the present hybrid design in a single recipe.
+In certain aspects, an RF-bias is provided to the heated platen holding the substrate for better stress management of the PECVD layers.
+Atomic layer etching (ALE) can also be achieved in the same reactor for cleaning the surface deposited PEALD film followed by depositing a thick PECVD film.
+The present disclosure relates to a semiconductor device package.
+The semiconductor device package includes a substrate, a support structure, an electronic component and an adhesive.
+The support structure is disposed on the substrate.
+The electronic component is disposed on the support structure.
+The adhesive is disposed between the substrate and the electronic component and covers the support structure.
+A hardness of the support structure is less than a hardness of the electronic component.
+Generally, examples are provided relating to filling gaps with a dielectric material, such as filling trenches between fins for Shallow Trench Isolations (STIs).
+In an embodiment, a first dielectric material is conformally deposited in a trench using an atomic layer deposition (ALD) process.
+After conformally depositing the first dielectric material, the first dielectric material is converted to a second dielectric material.
+In further examples, the first dielectric material can be conformally deposited in another trench, and a fill dielectric material can be flowed into the other trench and converted.
+Structures and formation methods of a semiconductor device structure are provided.
+The method includes forming a dummy gate stack over a semiconductor substrate and forming a spacer element over a sidewall of the dummy gate stack.
+The method also includes removing the dummy gate stack to form a recess exposing a semiconductor strip and forming an inhibition layer over an interior surface of the spacer element.
+The method further includes forming a gate dielectric layer in the recess to selectively cover the semiconductor strip.
+The inhibition layer substantially prevents the gate dielectric layer from being formed on the inhibition layer.
+In addition, the method includes forming a metal gate electrode over the gate dielectric layer.
+A method of forming via openings that includes forming sidewall spacers on a plurality of mandrels that are overlying a hardmask layer that is present on an interlevel dielectric layer.
+Etching the hardmask layer using a portion of the sidewall spacers and the plurality of mandrels to form a first pillar of hardmask material.
+The interlevel dielectric layer is etched using the first pillar of hardmask material as a mask to define a first via opening.
+The plurality of mandrels are removed.
+The hardmask layer is etched using the spacers to define a second pillar of hardmask material.
+The interlevel dielectric layer is etched using the second pillar of hardmask material to provide a second via opening.

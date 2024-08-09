@@ -1,0 +1,289 @@
+Some embodiments of the invention provide an integrated circuit (IC) with a defect-tolerant neural network.
+The neural network has one or more redundant neurons in some embodiments.
+After the IC is manufactured, a defective neuron in the neural network can be detected through a test procedure and then replaced by a redundant neuron (i.e., the redundant neuron can be assigned the operation of the defective neuron).
+The routing fabric of the neural network can be reconfigured so that it re-routes signals around the discarded, defective neuron.
+In some embodiments, the reconfigured routing fabric does not provide any signal to or forward any signal from the discarded, defective neuron, and instead provides signals to and forwards signals from the redundant neuron that takes the defective neuron's position in the neural network.
+In some embodiments that implement a neural network by re-purposing (i.e., reconfiguring) one or more individual neurons to implement neurons of multiple stages of the neural network, the IC discards a defective neuron by removing it from the pool of neurons that it configures to perform the operation(s) of neurons in one or more stages of neurons, and assigning this defective neuron's configuration(s) (i.e., its machine-trained parameter set(s)) to a redundant neuron.
+In some of these embodiments, the IC would re-route around the defective neuron and route to the redundant neuron, by (1) supplying machine-trained parameters and input signals (e.g., previous stage neuron outputs) to the redundant neuron instead of supplying these parameters and signals to the defective neuron, and (2) storing the output(s) of the redundant neuron instead of storing the output(s) of the defective neuron.
+Embodiments of semiconductor structures for wafer flatness control and methods for using and forming the same are disclosed.
+In an example, a model indicative of a flatness difference of a wafer between a first direction and a second direction is obtained.
+The flatness difference is associated with one of a plurality of fabrication stages of a plurality of semiconductor devices on a front side of the wafer.
+A compensation pattern is determined for reducing the flatness difference based on the model.
+At the one of the plurality of the fabrication stages, a compensation structure is formed on a backside opposite to the front side of the wafer based on the compensation pattern to reduce the flatness difference.
+Systems and methods are provided for producing an integrated circuit package, e.g., an SOIC package, having reduced or eliminated lead delamination caused by epoxy outgassing resulting from the die attach process in which an integrated circuit die is attached to a lead frame by an epoxy.
+The epoxy outgassing may be reduced by heating the epoxy during or otherwise in association with the die attach process, e.g.
+using a heating device provided at the die attach unit.
+Heating the epoxy may achieve additional cross-linking in the epoxy reaction, which may thereby reduce outgassing from the epoxy, which may in turn reduce or eliminate subsequent lead delamination.
+A heating device located at or near the die attach site may be used to heat the epoxy to a temperature of 55° C.±5° C. during or otherwise in association with the die attach process.
+A semiconductor structure for manufacturing a semiconductor package device is provided.
+The semiconductor structure includes a carrier and a dielectric layer.
+The carrier has a first surface and a second surface opposite to the first surface.
+The carrier includes an inner core layer and an exterior clad layer, and the inner core layer is covered by the exterior clad layer.
+The dielectric layer is formed on the first surface of the carrier.
+The carrier supports the dielectric layer.
+Conformal hermetic dielectric films suitable as dielectric diffusion barriers over 3D topography.
+In embodiments, the dielectric diffusion barrier includes a dielectric layer, such as a metal oxide, which can be deposited by atomic layer deposition (ALD) techniques with a conformality and density greater than can be achieved in a conventional silicon dioxide-based film deposited by a PECVD process for a thinner contiguous hermetic diffusion barrier.
+In further embodiments, the diffusion barrier is a multi-layered film including a high-k dielectric layer and a low-k or intermediate-k dielectric layer (e.g., a bi-layer) to reduce the dielectric constant of the diffusion barrier.
+In other embodiments a silicate of a high-k dielectric layer (e.g., a metal silicate) is formed to lower the k-value of the diffusion barrier by adjusting the silicon content of the silicate while maintaining high film conformality and density.
+A package structure includes a first redistribution layer, a molding material, a semiconductor device and an inductor.
+The molding material is located on the first redistribution layer.
+The semiconductor device is molded in the molding material.
+The inductor penetrates through the molding material and electrically connected to the semiconductor device.
+The invention relates to a power semiconductor device having a pin element which passes through a housing opening, an elastic sealing device which is arranged between a housing opening wall of the housing, where the housing opening wall delimits the housing opening and encircles the pin element.
+The pin element runs through the sleeve and through a sealing device opening of the sealing element.
+The sealing device is not connected in a materially bonded manner to the sleeve, to the housing opening wall and to the pin element and the sealing device seals off the housing opening wall from the sleeve and seals off the sleeve from the pin element.
+A crosslinked potting compound is arranged on the sealing device.
+The crosslinked potting compound is connected in a materially bonded manner to the sleeve, to the housing opening wall and to the pin element and the potting compound seals off the housing opening wall from the sleeve and seals off the sleeve from the pin element.
+A case (6) surrounds a semiconductor chip (5).
+A case electrode (7) is attached to an upper face of the case (6).
+A wire (8) is connected to the semiconductor chip (5) and the case electrode (7).
+A first holding portion (10) presses down the case electrode (7) on the upper face of the case (6) outside a joint portion where the wire (8) is bonded to the case electrode (7).
+A second holding portion (11) presses down the case electrode (7) on the upper face of the case (6) inside the joint portion.
+A recess (12) is formed on the upper face of the case (6).
+The case electrode (7) is bent such as to fit into the recess (12).
+The second holding portion (11) is disposed inside the recess (12).
+Packaged semiconductor components having substantially rigid support member are disclosed.
+The packages can include a semiconductor die and a support member proximate to the semiconductor die.
+The support member is at least substantially rigid.
+The packages can further include an adhesive between the support member and the semiconductor die and adhesively attaching the support member to the semiconductor die.
+The packages can also include a substrate carrying the semiconductor die and the support member attached to the semiconductor die.
+A semiconductor package includes a lead frame, a die, a discrete electrical component, and electrical connections.
+The lead frame includes leads and a die pad.
+Some of the leads include engraved regions that have recesses therein and the die pad may include an engraved region or multiple engraved regions.
+Each engraved region is formed to contain and confine a conductive adhesive from flowing over the edges of the engraved leads or the die pad.
+The boundary confines the conductive adhesive to the appropriate location on the engraved lead or the engraved die pad when being placed on the engraved regions.
+By utilizing a lead frame with engraved regions, the flow of the conductive adhesive or the wettability of the conductive adhesive can be contained and confined to the appropriate areas of the engraved lead or engraved die pad such that a conductive adhesive does not cause cross-talk between electrical components within a semiconductor package or short circuiting within a semiconductor package.
+The present disclosure is directed to a leadframe package with a surface mounted semiconductor die coupled to leads of the leadframe package through wire bonding.
+The leads are partially exposed outside the package and configured to couple to another structure, like a printed circuit board (PCB).
+The exposed portions, namely outer segments, of the leads include a plating or coating layer of a material that enhances the solder wettability of the leads to the PCB through solder bonding.
+The enclosed portions, namely inner segments, of the leads do not include the plating layer of the outer segment and, thus, include a different surface material or surface finish.
+An electronic apparatus and a circuit board thereof are provided.
+The electronic apparatus includes a control device that can operate with the circuit board, and includes a ball pad array.
+The ball pad array includes a plurality of power ball pads and a plurality of ground ball pads, which are arranged in the same pad arrangement region.
+At least a portion of the power ball pads and at least a portion of the ground ball pads are arranged in an alternate manner.
+The circuit board includes a solder pad array corresponding to the ball pad array of the control device so as to be disposed with the control device.
+A power device includes a semiconductor chip provided over a substrate, and a patterned lead.
+The patterned lead includes a raised portion located between a main portion and an end portion.
+At least part of the raised portion is positioned over the semiconductor chip at a larger height than both the main portion and the end portion.
+A bonding pad may also be included.
+The end portion may include a raised portion, bonded portion, and connecting portion.
+At least part of the bonded portion is bonded to the bonding pad and at least part of the raised portion is positioned over the bonding pad at a larger height than the bonded portion and connecting portion.
+The end portion may also include a plurality of similarly raised portions.
+A multi-row wiring member configured of a plurality of wiring members arrayed in a matrix includes a resin layer, a first plating layer forming internal terminals, a plating layer forming wiring portions and a second plating layer forming external terminals.
+The first plating layer is formed in the resin layer with lower faces thereof uncovered in a bottom surface of the resin layer.
+The plating layer forming wiring portions is formed on the first plating layer in the resin layer.
+The second plating layer is formed in the resin layer on partial areas within areas of the plating layer forming wiring portions, with upper faces thereof being uncovered on a top-surface side of the resin layer.
+On a bottom-surface side of the resin layer, a metal frame is formed at a margin around an aggregate of individual wiring members arrayed in the matrix.
+A lead frame for assembling a smart card is formed with a substrate having first and second opposing major surfaces.
+A die receiving area is formed in the first major surface of the substrate and surrounded by conductive vias.
+A conductive coating is formed on the second major surface of the substrate and patterned to form electrical contact pads over the conductive vias.
+A conductive trace is formed on the first major surface of the substrate.
+The conductive trace extends between at least two adjacent vias and partially surrounds the at least two adjacent conductive vias, thereby forming a gap in the portion of the trace that surrounds the vias.
+An electrical connection between an integrated circuit chip and the conductive via extends over the gap.
+The gap prevents the electrical connection from inadvertently contacting the conductive trace.
+An input/output (I/O) circuit includes at least one I/O cell having a first size, and a high current circuit coupled to the at least one I/O cell.
+The high current circuit has a second size that is smaller than the first size.
+A connection bus is coupled to the high current circuit.
+The connection bus has the second size and is positioned in substantially a same location within the I/O circuit as the high current circuit.
+A bump or a bond pad is coupled to the connection bus.
+A stacked via structure including a first dielectric layer, a first conductive via, a first redistribution wiring, a second dielectric layer and a second conductive via is provided.
+The first dielectric layer includes a first via opening.
+The first conductive via is in the first via opening.
+A first level height offset is between a top surface of the first conductive via and a top surface of the first dielectric layer.
+The first redistribution wiring covers the top surface of the first conductive via and the top surface of the first dielectric layer.
+The second dielectric layer is disposed on the first dielectric layer and the first redistribution wiring.
+The second dielectric layer includes a second via opening.
+The second conductive via is in the second via opening.
+The second conductive via is electrically connected to the first redistribution wiring through the second via opening of the second dielectric layer.
+A multi-chip package includes a substrate (110) having a first side (111), an opposing second side (112), and a third side (213) that extends from the first side to the second side, a first die (120) attached to the first side of the substrate and a second die (130) attached to the first side of the substrate, and a bridge (140) adjacent to the third side of the substrate and attached to the first die and to the second die.
+No portion of the substrate is underneath the bridge.
+The bridge creates a connection between the first die and the second die.
+Alternatively, the bridge may be disposed in a cavity (615, 915) in the substrate or between the substrate and a die layer (750).
+The bridge may constitute an active die and may be attached to the substrate using wirebonds (241, 841, 1141, 1541).
+A phased array has a laminar substrate, a plurality of elements on the laminar substrate forming a patch phased array, and integrated circuits on the laminar substrate.
+Each integrated circuit is a high frequency integrated circuit configured to control receipt and/or transmission of signals by the plurality of elements in the patch phased array.
+In addition, each integrated circuit has a substrate side coupled with the laminar substrate, and a back side.
+The phased array also has a plurality of heat sinks.
+Each integrated circuit is coupled with at least one of the heat sinks.
+At least one of the integrated circuits has a thermal interface material in conductive thermal contact with its back side.
+The thermal interface material thus is between the at least one integrated circuit and one of the heat sinks.
+Preferably, the thermal interface material has a magnetic loss tangent value of between 0.5 and 4.5.
+The present disclosure relates to a packaged radiofrequency (RF) power amplifier.
+The present disclosure further relates to a semiconductor die that is used in such a power amplifier and to an electronic device or system that comprises the semiconductor die and/or power amplifier.
+According to the disclosure, the semiconductor die comprises a second drain bond assembly arranged spaced apart from the first drain bond assembly and electrically connected thereto, wherein the second drain bond assembly is arranged closer to the input side of the semiconductor die than the first drain bond assembly.
+The RF power amplifier comprises a first plurality of bondwires which extend between the first drain bond assembly and the output lead, and a second plurality of bondwires which extend from the second drain bond assembly to a first terminal of a grounded capacitor.
+A method for backside metallization includes inkjet printing a pattern of nanosilver conductive ink on a first surface of a silicon wafer.
+The silicon wafer includes a plurality of dies.
+The pattern includes a clearance area along a scribe line between the dies.
+A laser is focused, through a second surface of the wafer, at a point between the first surface of the silicon wafer and the second surface of the silicon wafer.
+The second surface is opposite the first surface.
+The dies are separated along the scribe line.
+An electrical joint structure including a substrate, a multi-layer bonding structure, and a blocking layer is provided.
+The multi-layer bonding structure is present on the substrate and includes a diffusive metal layer and a tin-rich layer.
+The diffusive metal layer includes a copper-tin alloy on a surface of the diffusive metal layer.
+The surface faces the substrate.
+A thickness of the copper-tin alloy is less than or equal to 2 μm.
+The tin-rich layer is present on and in contact with the diffusive metal layer.
+The blocking layer is present between the multi-layer bonding structure and the substrate and at least in contact with a part of said copper-tin alloy, such that the multi-layer bonding structure is spaced apart from the substrate.
+A wiring structure includes a redistribution layer and an electrical pad.
+The redistribution layer includes a passivation layer and a metal layer.
+The metal layer is embedded in the passivation layer, and the passivation layer defines an opening to expose a portion of the metal layer.
+The electrical pad is disposed in the opening of the passivation layer and on the metal layer.
+The electrical pad includes a seed layer, a conductive layer, a barrier layer and an anti-oxidation layer.
+Multi-chip wafer level packages and methods of forming the same are provided.
+A multi-chip wafer level package includes a first tier and a second tier.
+The first tier includes a first redistribution layer structure and at least one chip over the first redistribution layer structure.
+The second tier includes a second redistribution layer structure and at least two other chips over the second redistribution layer structure.
+The first tier is bonded to the second tier with the at least one chip being in physical contact with the second redistribution layer structure.
+The total number of connectors of the at least two other chips is greater than the total number of connectors of the at least one chip.
+A semiconductor device may include a first semiconductor chip, a second semiconductor chip, an encapsulant encapsulating the first and second semiconductor chips, a first signal terminal extending over inside and outside of the encapsulant and connected to the first semiconductor chip inside the encapsulant, and a second signal terminal extending over the inside and the outside of the encapsulant and connected to the second semiconductor chip inside the encapsulant.
+The first and second signal terminals may protrude from the encapsulant in a same direction.
+The first signal terminal may include, inside the encapsulant, a section where the first signal terminal extends farther away from the second signal terminal along a direction toward the first semiconductor chip.
+The second signal terminal may include, inside the encapsulant, a section where the second signal terminal extends farther away from the first signal terminal along a direction toward the second semiconductor chip.
+The electrical and electrochemical properties of various semiconductors may limit the usefulness of various semiconductor materials for one or more purposes.
+A completed gallium nitride (GaN) semiconductor layer containing a number of GaN power management integrated circuit (PMIC) dies may be bonded to a completed silicon semiconductor layer containing a number of complementary metal oxide (CMOS) control circuit dies.
+The completed GaN layer and the completed silicon layer may be full size (e.g., 300 mm).
+A layer transfer operation may be used to bond the completed GaN layer to the completed silicon layer.
+The layer transfer operation may be performed on full size wafers.
+After slicing the full size wafers a large number of multi-layer dies, each having a GaN die layer transferred to a silicon die may be produced.
+A structure and method for cooling a three-dimensional integrated circuit (3DIC) are provided.
+A cooling element is configured for thermal connection to the 3DIC.
+The cooling element includes a plurality of individually controllable cooling modules disposed at a first plurality of locations relative to the 3DIC.
+Each of the cooling modules includes a cold pole and a heat sink.
+The cold pole is configured to absorb heat from the 3DIC.
+The heat sink is configured to dissipate the heat absorbed by the cold pole and is coupled to the cold pole via an N-type semiconductor element and via a P-type semiconductor element.
+A temperature sensing element includes a plurality of thermal monitoring elements disposed at a second plurality of locations relative to the 3DIC for measuring temperatures at the second plurality of locations.
+The measured temperatures control the plurality of cooling modules.
+The present technology relates to a semiconductor device providing an image sensor package capable of coping with an increase in the number of I/Os of an image sensor, a manufacturing method thereof, and an electronic apparatus.
+The semiconductor device includes an image sensor, a glass substrate, a wiring layer, and external terminals.
+In the image sensor, photoelectric conversion elements are formed on a semiconductor substrate.
+The glass substrate is arranged on a first main surface side of the image sensor.
+The wiring layer is formed on a second main surface side opposite to the first main surface.
+Each of the external terminals outputs a signal of the image sensor.
+Metal wiring of the wiring layer extends to an outer peripheral portion of the image sensor and is connected to the external terminals.
+The present technology can be applied to, for example, an image sensor package and the like.
+A light emitting device including a light emitting element including an element substrate and semiconductor layers formed thereon, an encapsulating member that covers the sides of the light emitting element and forms a cavity at the upper surface of the light emitting element, and a wavelength-conversion layer in the cavity.
+The wavelength-conversion layer being capable of converting that converts the wavelength of light emitted by the light emitting element.
+The wavelength-conversion layer includes a first wavelength-conversion sub layer which is disposed at the upper surface of the light emitting element, and a second wavelength-conversion sub layer which is disposed on the first wavelength-conversion sub layer.
+The first wavelength-conversion sub layer includes first phosphors having a first resistance to environmental exposure, and the second wavelength-conversion sub layer includes second phosphors having a second resistance which is higher than that of the first wavelength-conversion sub layer.
+Alight emitting device includes a package, alight emitting element, and a light-transmissive encapsulant.
+The package has a top surface and a recessed portion formed with an opening at the top surface.
+The light emitting element is located on a bottom surface of the recessed portion.
+The light-transmissive encapsulant is supplied in the recessed portion.
+The package is provided with a groove formed in the top surface and surrounding the opening.
+A surface of the groove includes depressed portions and projecting portions.
+The encapsulant covers at least a part of the surface of the groove, and a portion of the encapsulant that covers the surface of the groove includes a surface irregularity.
+A chip package assembly and method for fabricating the same are provided which utilize a composite stiffener selected to provide excellent resistance to warpage without detrimentally imposing excessive stress on a package substrate of the package assembly.
+In one example, the chip package assembly includes an integrated circuit die stacked on a top surface of a package substrate, and a composite stiffener coupled to a first edge of the package substrate.
+The composite stiffener includes a first stiffener member and a second stiffener member.
+The first stiffener member has a bottom surface bonded to the top surface of the package substrate.
+The second stiffener member is disposed over the first stiffener member.
+The second stiffener member has a bottom surface bonded to the top surface of the package substrate.
+The second stiffener member has a Young's modulus that is less than a Young's modulus of the first stiffener member.
+The present invention relates to an electronic module.
+In particular, to an electronic module which includes one or more components embedded in an installation base.
+The electronic module can be a module like a circuit board, which includes several components, which are connected to each other electrically, through conducting structures manufactured in the module.
+The components can be passive components, microcircuits, semiconductor components, or other similar components.
+Components that are typically connected to a circuit board form one group of components.
+Another important group of components are components that are typically packaged for connection to a circuit board.
+The electronic modules to which the invention relates can, of course, also include other types of components.
+A semiconductor device has a first semiconductor die and a modular interconnect structure adjacent to the first semiconductor die.
+An encapsulant is deposited over the first semiconductor die and modular interconnect structure as a reconstituted panel.
+An interconnect structure is formed over the first semiconductor die and modular interconnect structure.
+An active area of the first semiconductor die remains devoid of the interconnect structure.
+A second semiconductor die is mounted over the first semiconductor die with an active surface of the second semiconductor die oriented toward an active surface of the first semiconductor die.
+The reconstituted panel is singulated before or after mounting the second semiconductor die.
+The first or second semiconductor die includes a microelectromechanical system (MEMS).
+The second semiconductor die includes an encapsulant and an interconnect structure formed over the second semiconductor die.
+Alternatively, the second semiconductor die is mounted to an interposer disposed over the interconnect structure.
+A device includes a test pad on a chip.
+A first microbump has a first surface area that is less than a surface area of the test pad.
+A first conductive path couples the test pad to the first microbump.
+A second microbump has a second surface area that is less than the surface area of the test pad.
+A second conductive path couples the test pad to the second microbump.
+The method for creating integrated circuits (IC) protects the design of a manufactured IC from being copied or counterfeited.
+This method protects the design of an IC chip from deliberate copying and counterfeiting by reverse engineering to gain access to the critical points in the IC chip and to siphon its functions and design.
+The method makes the copying, counterfeiting, and controlling by addition of Trojan circuits during manufacturing almost impossible task.
+It also allows chip designers to outsource the final bonding of the tiers without any fears that their design may get compromised.
+A method for manufacturing chip package includes the steps below.
+A wafer having an upper surface and a lower surface opposite thereto is provided, in which conductive bumps are disposed on the upper surface.
+The upper surface of the wafer is diced to form trenches.
+A first insulation layer exposing the conductive bumps is formed on the upper surface and in the trenches.
+A surface treatment layer is formed on the conductive bumps, and a top surface of the surface treatment layer is higher than that of the first insulation layer.
+The wafer is thinned from the lower surface toward the upper surface to expose the first insulation layer in the trenches.
+A second insulation layer is formed below the lower surface.
+The first and second insulation layers are diced along a center of each trench to form chip packages.
+An electronic package lid which includes one or more underside ribs.
+The ribs have a major length and a minor width and are generally aligned to be parallel with a diagonal or normal bisector of the processing device.
+The underside rib generally stiffens the cover such that an upper surface of the cover is more apt to stay flat.
+As such, cover warpage and, therefore, the peeling of the TIM1 and delamination of underfill due to the physical or dimensional expansion of the processing device and/or a carrier may be reduced.
+As a result, the surface area dedicated for the seal material upon the carrier surface may be reduced, thereby increasing the available surface area upon the carrier for additional electronic components to be placed in close proximity to the processing device.
+Various aspects of the disclosure are directed to circuitry coupled for controlling current flow, such as in a cascode arrangement.
+As may be consistent with one or more embodiments, an apparatus includes a first transistor having a gate, source, channel and drain, and a second transistor having a gate, and having a stacked source, channel and drain.
+A conductive clip plate electrically connects the drain of the second transistor to the source of the first transistor, and another conductor electrically connects the source of the second transistor to the gate of the first transistor.
+The second transistor operates with the connecting structure to provide power by controlling the first transistor in an off-state and in an on-state.
+A semiconductor device includes a semiconductor wafer including a plurality of first semiconductor die.
+An opening is formed partially through the semiconductor wafer.
+A plurality of second semiconductor die is disposed over a first surface of the semiconductor wafer.
+An encapsulant is disposed over the semiconductor wafer and into the opening leaving a second surface of the semiconductor wafer exposed.
+A portion of the second surface of the semiconductor wafer is removed to separate the first semiconductor die.
+An interconnect structure is formed over the second semiconductor die and encapsulant.
+A thermal interface material is deposited over the second surface of the first semiconductor die.
+A heat spreader is disposed over the thermal interface material.
+An insulating layer is formed over the first surface of the semiconductor wafer.
+A vertical interconnect structure is formed around the first semiconductor die.
+Conductive vias are formed through the first semiconductor die.
+A package structure includes a redistribution circuit structure, at least one semiconductor die, an insulating encapsulation, insulators, and metallic patterns.
+The at least one semiconductor die is located on and electrically connected to the redistribution circuit structure.
+The insulating encapsulation encapsulates the at least one semiconductor die and located on the redistribution circuit structure.
+The insulators are located on the redistribution circuit structure, wherein the insulators are separated and spaced apart from each other, wherein edges of each of the insulators are distant from edges of the at least one semiconductor die by an offset in a stacking direction of the redistribution circuit structure and the insulating encapsulation.
+Each of the metallic patterns is located on a respective one of the insulators.
+A method of forming an integrated circuit (IC) package with improved performance and reliability is disclosed.
+The method includes forming a singulated IC die, coupling the singulated IC die to a carrier substrate, and forming a routing structure.
+The singulated IC die has a conductive via and the conductive via has a peripheral edge.
+The routing structure has a conductive structure coupled to the conductive via.
+The routing structure further includes a cap region overlapping an area of the conductive via, a routing region having a first width from a top-down view, and an intermediate region having a second width from the top-down view along the peripheral edge of the conductive via.
+The intermediate region is arranged to couple the cap region to the routing region and the second width is greater than the first width.
+Semiconductor devices, semiconductor packages and methods of forming the same are provided.
+One of the semiconductor device includes a dielectric layer and a connector.
+The dielectric layer includes a dielectric material and an additive, wherein the additive includes a compound represented by Chemical Formula 1.
+The connector is disposed in the dielectric layer.
+A trench-type metal-oxide-semiconductor field-effect transistor (MOSFET) device and a fabrication method are disclosed.
+A semiconductor substrate of a first conductivity type is provided.
+A plurality of first trenches arranged side by side in a first stripe layout extending along a first direction in a first preset area of the semiconductor substrate are formed.
+A plurality of second trenches arranged side by side in a second stripe layout extending along a second direction perpendicular to the first direction in a second preset area of the semiconductor substrate are formed.
+The plurality of first trenches and the plurality of second trenches are filled with a conductive material so as to form a plurality of control gates.
+A data selector based on TVD includes two AND gates, an OR gate, and three buffers, wherein the two AND gates and the OR gate adopt a three-phase dual-track pre-charge logic as a work logic.
+The data selector fulfills one time of evaluation operation and has three stages in one cycle.
+When a discharge control signal and a pre-charge control signal are at low levels, the data selector enters a pre-charge stage.
+When an evaluation signal is changed to a high level from a low level, the data selector implements the evaluation operation to fulfill the circuit function.
+When the discharge control signal is changed to a high level from the low level, the data selector enters a discharge state and gets ready for the next evaluation operation.
+A semiconductor device is disclosed.
+The semiconductor device includes a first die on a first substrate, a second die on a second substrate separate from the first substrate, a transmission line in a redistribution layer on a wafer, and a magnetic structure surrounds the transmission line.
+The first transmission line electrically connects the first die and the second die.
+The magnetic structure is configured to increase the characteristic impedance of the transmission line, which can save the current and power consumption of a current mirror and amplifier in a 3D IC chip-on-wafer-on-substrate (CoWoS) semiconductor package.
+A redistribution structure includes a first dielectric layer, a pad pattern, and a second dielectric layer.
+The pad pattern is disposed on the first dielectric layer and includes a pad portion and a peripheral portion.
+The pad portion is embedded in the first dielectric layer, wherein a lower surface of the pad portion is substantially coplanar with a lower surface of the first dielectric layer.
+The peripheral portion surrounds the pad portion.
+The second dielectric layer is disposed on the pad pattern and includes a plurality of extending portions extending through the peripheral portion.
+The present disclosure, in some embodiments, relates to an integrated chip structure.
+The integrated chip structure includes a bump structure disposed on a first substrate and a molding compound in physical contact with the bump structure.
+The bump structure protrudes from the molding compound.
+A conductive region is on a second substrate and contacts the bump structure.
+A no-flow underfill (NUF) material is vertically between the molding compound and the second substrate and laterally surrounds the bump structure.
+The NUF material is separated from the molding compound.
+To provide a technique of preventing, in an encapsulated circuit module having a metal shield layer covering a surface of a resin layer containing filler, the shield layer from falling off.
+In manufacturing encapsulated circuit modules, first, a substrate 100 is covered with a first resin 400 containing filler together with an electronic component 200.
+Next, a surface of the first resin 400 is covered with a second resin 500 containing no filler.
+Subsequently, a ground electrode 110 in the substrate 100 is exposed by snicking and then a shield layer 600 that covers the entire surface of the substrate 100 is formed by electroless plating.
+Thereafter, snipping is performed to obtain a number of encapsulated circuit modules.
+A semiconductor package includes a first chip package including a plurality of first semiconductor dies and a first insulating encapsulant, a second semiconductor die, a third semiconductor die, and a second insulating encapsulant.
+The plurality of first semiconductor dies are electrically connected to each other, and the first insulating encapsulant encapsulates the plurality of first semiconductor dies.
+The second semiconductor die and the third semiconductor die are electrically communicated to each other by connecting to the first chip package, wherein the first chip package is stacked on the second semiconductor die and the third semiconductor die.
+The second insulating encapsulant encapsulates the first chip package, the second semiconductor die, and the third semiconductor die.
+A chip package assembly is provided that includes a substrate, at least one integrated circuit (IC) die and a power management integrated circuit (PMIC).
+In one example, the IC die of the chip package assembly is disposed on a first surface of the substrate.
+The PMIC die has a first surface having outputs electrically coupled to the second surface of the IC die.
+The PMIC die also has a second surface facing away from the first surface.
+The second surface of the PMIC die has inputs that are electrically coupled to the first surface of the substrate.
